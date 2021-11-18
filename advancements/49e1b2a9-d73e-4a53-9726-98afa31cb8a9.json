@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2021-11-18 23:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-11-09 22:14:39 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2021-11-18 23:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2021-11-09 23:03:12 +0000"
@@ -433,6 +445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-11-18 23:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-16 21:46:05 +0000"
@@ -489,10 +507,12 @@
       "deep_ocean": "2021-11-18 22:25:42 +0000",
       "beaches": "2021-11-18 22:13:53 +0000",
       "plains": "2021-11-09 21:54:04 +0000",
+      "savanna": "2021-11-18 23:10:00 +0000",
       "savanna_rock": "2021-11-18 22:31:09 +0000",
       "ice_mountains": "2021-11-18 01:15:11 +0000",
       "redwood_taiga": "2021-11-18 22:13:57 +0000",
       "ocean": "2021-11-18 22:11:10 +0000",
+      "roofed_forest": "2021-11-18 23:32:40 +0000",
       "river": "2021-11-18 22:07:38 +0000"
     },
     "done": false
