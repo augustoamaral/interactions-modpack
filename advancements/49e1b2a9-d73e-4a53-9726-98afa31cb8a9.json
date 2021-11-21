@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-11-21 04:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-16 21:46:05 +0000"
@@ -740,6 +746,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2021-11-21 04:29:56 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2021-11-21 04:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-11-09 22:13:44 +0000"
@@ -941,6 +959,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-11-19 19:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-11-21 04:41:36 +0000"
     },
     "done": true
   },
