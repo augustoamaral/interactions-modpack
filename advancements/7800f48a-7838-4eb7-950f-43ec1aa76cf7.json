@@ -29,9 +29,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-11-24 13:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2021-11-24 13:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-11-24 13:26:17 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2021-11-23 00:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-11-24 13:26:17 +0000"
     },
     "done": true
   },
@@ -41,13 +65,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2021-11-24 13:26:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "frozen_river": "2021-11-23 23:03:35 +0000",
+      "ice_flats": "2021-11-24 13:43:10 +0000",
+      "taiga_cold_hills": "2021-11-24 13:40:58 +0000",
       "deep_ocean": "2021-11-23 23:04:13 +0000",
       "beaches": "2021-11-23 23:05:01 +0000",
       "plains": "2021-11-23 00:03:43 +0000",
       "ice_mountains": "2021-11-23 01:35:44 +0000",
+      "taiga_cold": "2021-11-24 13:40:32 +0000",
       "ocean": "2021-11-23 23:03:55 +0000",
       "river": "2021-11-23 23:04:58 +0000"
     },
@@ -74,6 +107,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-11-24 13:26:17 +0000"
     },
     "done": true
   },
@@ -122,6 +161,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-11-23 23:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-11-24 13:26:17 +0000"
     },
     "done": true
   },
@@ -233,6 +278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2021-11-24 13:26:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2021-11-23 00:07:24 +0000"
@@ -329,9 +380,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2021-11-24 13:26:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-11-23 01:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2021-11-24 13:26:17 +0000"
     },
     "done": true
   }
