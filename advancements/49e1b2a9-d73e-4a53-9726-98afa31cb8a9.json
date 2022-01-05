@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2022-01-05 23:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-11-10 01:41:56 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-16 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2022-01-05 23:32:09 +0000"
     },
     "done": true
   },
@@ -849,6 +861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2022-01-05 23:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-11-10 01:16:02 +0000"
@@ -937,7 +955,8 @@
     "criteria": {
       "zombie_villager": "2021-11-23 23:40:30 +0000",
       "husk": "2021-11-19 23:03:33 +0000",
-      "zombie": "2021-11-23 00:00:25 +0000"
+      "zombie": "2021-11-23 00:00:25 +0000",
+      "spider": "2022-01-05 22:56:34 +0000"
     },
     "done": false
   },
