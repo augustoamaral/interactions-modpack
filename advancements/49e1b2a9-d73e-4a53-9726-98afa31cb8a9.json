@@ -427,9 +427,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2022-01-13 23:41:10 +0000",
       "cooked_beef": "2021-11-20 01:19:08 +0000",
       "apple": "2021-11-09 23:03:12 +0000",
       "rabbit": "2022-01-09 14:58:04 +0000",
+      "pumpkin_pie": "2022-01-13 23:41:02 +0000",
       "raw_salmon": "2021-11-19 20:45:14 +0000",
       "golden_apple": "2021-11-23 23:37:54 +0000",
       "cooked_chicken": "2021-11-20 01:19:30 +0000"
@@ -811,6 +813,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-01-13 23:52:06 +0000"
     },
     "done": true
   },
