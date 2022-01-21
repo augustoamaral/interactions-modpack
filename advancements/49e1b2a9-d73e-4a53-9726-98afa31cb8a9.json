@@ -529,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-01-21 21:58:07 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2021-11-09 22:12:30 +0000",
@@ -570,6 +576,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2022-01-21 21:58:07 +0000"
     },
     "done": true
   },
@@ -766,6 +778,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-11-09 22:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-01-21 21:58:07 +0000"
     },
     "done": true
   },
@@ -982,6 +1000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2022-01-21 21:58:07 +0000"
+    },
+    "done": true
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2021-11-09 22:14:53 +0000"
@@ -991,6 +1015,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2021-11-09 21:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-01-21 21:58:07 +0000"
     },
     "done": true
   },
