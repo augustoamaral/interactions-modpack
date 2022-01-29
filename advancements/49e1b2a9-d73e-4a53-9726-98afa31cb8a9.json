@@ -495,6 +495,12 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_pressurized2": "2022-01-29 05:31:24 +0000"
+    },
+    "done": false
+  },
   "bhc:main/root": {
     "criteria": {
       "red_heart_in_inventory": "2021-11-21 04:29:56 +0000"
@@ -984,6 +990,12 @@
     },
     "done": true
   },
+  "enderioconduits:fluid/2_fluid_conduit_pressurized": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_pressurized": "2022-01-29 05:31:24 +0000"
+    },
+    "done": true
+  },
   "enderio:gears/g2_stone_gear": {
     "criteria": {
       "inv_changed-enderio:item_material": "2021-11-16 23:52:59 +0000"
@@ -1057,6 +1069,12 @@
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2021-11-21 04:29:56 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2022-01-29 05:31:24 +0000"
     },
     "done": true
   },
