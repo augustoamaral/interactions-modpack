@@ -1066,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-01-29 14:58:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2021-11-21 04:29:56 +0000"
@@ -1195,6 +1201,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-16 21:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-01-29 14:58:24 +0000"
     },
     "done": true
   },
