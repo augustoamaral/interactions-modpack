@@ -375,6 +375,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2022-01-31 21:20:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2021-11-18 21:28:20 +0000"
@@ -552,6 +558,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2021-11-18 23:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-01-31 21:22:37 +0000"
     },
     "done": true
   },
@@ -852,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-01-31 21:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2021-11-10 01:41:52 +0000"
@@ -933,6 +951,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-01-31 21:22:37 +0000"
     },
     "done": true
   },
@@ -1225,6 +1249,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2021-11-19 19:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2022-01-31 21:20:13 +0000"
     },
     "done": true
   },
