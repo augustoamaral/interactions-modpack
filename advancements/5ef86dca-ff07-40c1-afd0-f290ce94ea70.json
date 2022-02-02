@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2022-02-01 20:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2022-02-01 21:45:19 +0000"
@@ -80,12 +86,6 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-02-01 21:52:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2022-02-01 20:13:20 +0000"
     },
     "done": true
   },
@@ -119,15 +119,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2022-02-01 21:52:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-01 20:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2022-02-01 21:52:27 +0000"
     },
     "done": true
   },
@@ -137,15 +137,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
-    "criteria": {
-      "has_bonemeal": "2022-02-01 20:13:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2022-02-01 19:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2022-02-01 20:13:20 +0000"
     },
     "done": true
   },
@@ -233,15 +233,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_yellow_flower": "2022-02-01 21:46:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2022-02-01 19:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2022-02-01 21:46:43 +0000"
     },
     "done": true
   },
@@ -257,21 +257,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_wool": {
-    "criteria": {
-      "has_white_wool": "2022-02-01 21:52:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-02-01 19:17:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_button": {
+  "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
-      "has_planks": "2022-02-01 19:18:28 +0000"
+      "has_white_wool": "2022-02-01 21:52:27 +0000"
     },
     "done": true
   },
@@ -284,6 +278,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-02-01 19:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2022-02-01 19:18:28 +0000"
     },
     "done": true
   },
@@ -473,7 +473,10 @@
     "criteria": {
       "forest": "2022-02-01 21:51:21 +0000",
       "beaches": "2022-02-01 21:52:02 +0000",
-      "plains": "2022-02-01 18:57:56 +0000"
+      "plains": "2022-02-01 18:57:56 +0000",
+      "redwood_taiga_hills": "2022-02-02 18:34:26 +0000",
+      "roofed_forest": "2022-02-02 18:32:26 +0000",
+      "river": "2022-02-02 18:27:44 +0000"
     },
     "done": false
   },
@@ -579,9 +582,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "killed_something": "2022-02-01 21:48:48 +0000"
+      "wheat": "2022-02-01 19:45:16 +0000"
     },
     "done": true
   },
@@ -597,9 +600,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "wheat": "2022-02-01 19:45:16 +0000"
+      "killed_something": "2022-02-01 21:48:48 +0000"
     },
     "done": true
   },
@@ -609,15 +612,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2022-02-01 21:46:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2022-02-01 19:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-02-01 21:46:43 +0000"
     },
     "done": true
   },
@@ -657,15 +660,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2022-02-01 20:36:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-02-01 20:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-02-01 20:36:29 +0000"
     },
     "done": true
   },
@@ -771,9 +774,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
-      "has_glass": "2022-02-01 20:36:29 +0000"
+      "has_planks": "2022-02-01 19:18:28 +0000"
     },
     "done": true
   },
@@ -783,15 +786,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
-      "has_red_flower": "2022-02-01 21:46:44 +0000"
+      "has_glass": "2022-02-01 20:36:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_door": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_planks": "2022-02-01 19:18:28 +0000"
+      "has_red_flower": "2022-02-01 21:46:44 +0000"
     },
     "done": true
   },
