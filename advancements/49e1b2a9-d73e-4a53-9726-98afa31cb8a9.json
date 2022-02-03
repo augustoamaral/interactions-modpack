@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2022-02-03 22:53:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2021-11-18 23:07:50 +0000"
@@ -509,7 +515,8 @@
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
-      "inv_changed-enderio:liquid_conduit_pressurized2": "2022-01-29 05:31:24 +0000"
+      "inv_changed-enderio:liquid_conduit_pressurized2": "2022-01-29 05:31:24 +0000",
+      "inv_changed-enderio:item_conduit2": "2022-02-03 22:53:17 +0000"
     },
     "done": false
   },
@@ -1055,6 +1062,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2022-02-03 22:52:55 +0000"
     },
     "done": true
   },
