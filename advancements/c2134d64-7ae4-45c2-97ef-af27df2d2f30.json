@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "rftools:clearvision": {
+    "criteria": {
+      "placed_screen": "2022-02-04 18:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-02-04 17:20:56 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-02-04 17:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2022-02-04 18:29:43 +0000"
     },
     "done": true
   },
