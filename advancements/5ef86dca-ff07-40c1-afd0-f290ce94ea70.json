@@ -485,6 +485,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2022-02-04 22:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-02-04 22:04:23 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2022-02-01 19:16:38 +0000",
@@ -529,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2022-02-04 22:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-02-01 20:37:26 +0000"
@@ -550,6 +568,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-02-01 20:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-02-04 22:07:23 +0000"
     },
     "done": true
   },
@@ -633,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-02-04 22:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2022-02-01 19:44:24 +0000"
@@ -678,6 +708,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-02-01 19:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-02-04 22:04:23 +0000"
     },
     "done": true
   },
@@ -885,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2022-02-04 22:04:23 +0000"
+    },
+    "done": true
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2022-02-01 19:20:10 +0000"
@@ -894,6 +936,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2022-02-01 20:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-02-04 22:04:23 +0000"
     },
     "done": true
   },
@@ -978,6 +1026,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-02-04 18:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-02-04 21:41:51 +0000"
     },
     "done": true
   },
