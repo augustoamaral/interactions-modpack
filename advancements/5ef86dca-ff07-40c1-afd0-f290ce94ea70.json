@@ -217,7 +217,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2022-02-04 18:41:45 +0000"
+      "cooked_mutton": "2022-02-04 18:41:45 +0000",
+      "apple": "2022-02-05 19:15:54 +0000",
+      "carrot": "2022-02-05 19:17:35 +0000"
     },
     "done": false
   },
@@ -807,6 +809,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2022-02-04 18:33:31 +0000"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-02-05 18:47:17 +0000"
     },
     "done": true
   },
