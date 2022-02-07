@@ -1102,6 +1102,12 @@
     },
     "done": true
   },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2022-02-07 19:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2021-11-09 22:04:52 +0000"
