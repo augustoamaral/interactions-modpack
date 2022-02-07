@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2022-02-07 19:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-01 20:36:29 +0000"
@@ -584,6 +590,7 @@
     "criteria": {
       "zombie_villager": "2022-02-04 23:06:11 +0000",
       "slime": "2022-02-04 23:21:50 +0000",
+      "skeleton": "2022-02-07 19:26:10 +0000",
       "zombie": "2022-02-04 23:06:05 +0000",
       "spider": "2022-02-01 21:48:48 +0000"
     },
@@ -1186,6 +1193,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2022-02-07 19:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-02-01 19:17:13 +0000"
@@ -1261,6 +1274,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2022-02-01 21:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-02-07 19:26:05 +0000"
     },
     "done": true
   },
