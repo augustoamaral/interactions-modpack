@@ -632,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-02-08 22:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-01 20:36:29 +0000"
@@ -1166,6 +1172,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-02-04 18:49:46 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/8_blue": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-02-08 23:29:37 +0000"
     },
     "done": true
   },
