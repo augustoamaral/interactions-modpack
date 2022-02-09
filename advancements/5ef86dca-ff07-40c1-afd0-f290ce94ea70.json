@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "botania:main/brew_pickup": {
+    "criteria": {
+      "vial": "2022-02-09 12:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2022-02-01 19:18:28 +0000"
@@ -417,6 +423,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-02-04 18:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2022-02-09 12:08:18 +0000"
     },
     "done": true
   },
