@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "wizardry:advancement_manapool": {
+    "criteria": {
+      "manapool": "2022-02-10 10:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-02-10 08:52:39 +0000"
@@ -381,7 +387,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "plains": "2022-02-07 19:13:54 +0000"
+      "taiga_cold_hills": "2022-02-10 10:35:51 +0000",
+      "plains": "2022-02-07 19:13:54 +0000",
+      "ice_mountains": "2022-02-10 10:35:53 +0000"
     },
     "done": false
   },
