@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-02-11 18:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2022-02-04 19:29:59 +0000"
@@ -286,6 +292,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-11-19 19:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-02-11 19:04:28 +0000"
     },
     "done": true
   },
@@ -642,6 +654,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-02-11 19:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-02-11 19:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-16 21:46:05 +0000"
@@ -656,15 +680,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2022-02-11 19:04:57 +0000",
       "zombie_villager": "2021-11-23 23:40:30 +0000",
       "skeleton": "2022-02-03 21:08:13 +0000",
       "husk": "2021-11-19 23:03:33 +0000",
+      "blaze": "2022-02-11 19:06:18 +0000",
       "zombie": "2021-11-23 00:00:25 +0000",
       "silverfish": "2022-02-04 20:34:48 +0000",
       "spider": "2022-01-05 22:56:34 +0000",
       "creeper": "2022-02-03 21:16:37 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-02-11 18:55:40 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -888,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-02-11 19:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-09 22:04:52 +0000"
@@ -1026,6 +1064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-02-11 19:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2022-02-11 18:00:27 +0000"
@@ -1143,6 +1187,12 @@
   "astralsorcery:rock_crystals": {
     "criteria": {
       "rock_crystal_in_inventory": "2022-02-07 19:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-02-11 19:00:38 +0000"
     },
     "done": true
   },
@@ -1418,6 +1468,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-11-09 22:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-02-11 19:00:38 +0000"
     },
     "done": true
   },
