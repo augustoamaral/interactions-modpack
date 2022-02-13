@@ -985,6 +985,12 @@
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2022-02-13 18:45:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-02-04 18:49:45 +0000"
