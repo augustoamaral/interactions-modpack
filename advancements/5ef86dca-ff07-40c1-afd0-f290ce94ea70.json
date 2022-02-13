@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-02-13 19:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2022-02-01 19:18:28 +0000"
@@ -1489,6 +1495,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-02-05 23:52:28 +0000"
+    },
+    "done": true
+  },
+  "rftools:alltheitems": {
+    "criteria": {
+      "placed_storage": "2022-02-13 19:30:41 +0000"
     },
     "done": true
   },
