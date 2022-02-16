@@ -285,7 +285,8 @@
       "pumpkin_pie": "2022-01-13 23:41:02 +0000",
       "raw_salmon": "2021-11-19 20:45:14 +0000",
       "golden_apple": "2021-11-23 23:37:54 +0000",
-      "cooked_chicken": "2021-11-20 01:19:30 +0000"
+      "cooked_chicken": "2021-11-20 01:19:30 +0000",
+      "enchanted_golden_apple": "2022-02-16 21:55:45 +0000"
     },
     "done": false
   },
@@ -850,6 +851,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2022-02-16 21:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2022-02-16 18:46:39 +0000"
@@ -1081,6 +1088,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2022-02-16 21:55:11 +0000"
     },
     "done": true
   },
