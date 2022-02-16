@@ -699,6 +699,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2022-02-16 02:51:37 +0000",
       "wither_skeleton": "2022-02-11 19:04:57 +0000",
       "zombie_villager": "2021-11-23 23:40:30 +0000",
       "skeleton": "2022-02-03 21:08:13 +0000",
