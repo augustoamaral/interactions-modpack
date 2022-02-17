@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-02-17 23:20:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2021-11-10 01:16:02 +0000"
@@ -708,6 +714,7 @@
       "blaze": "2022-02-11 19:06:18 +0000",
       "zombie": "2021-11-23 00:00:25 +0000",
       "silverfish": "2022-02-04 20:34:48 +0000",
+      "cave_spider": "2022-02-17 23:49:39 +0000",
       "spider": "2022-01-05 22:56:34 +0000",
       "creeper": "2022-02-03 21:16:37 +0000"
     },
@@ -968,6 +975,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-09 22:04:52 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2022-02-17 23:17:10 +0000"
     },
     "done": true
   },
