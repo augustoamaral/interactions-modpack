@@ -471,6 +471,12 @@
     },
     "done": true
   },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2022-02-19 18:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2022-02-01 19:44:19 +0000"
@@ -721,6 +727,7 @@
       "evoker": "2022-02-09 16:09:37 +0000",
       "zombie": "2022-02-04 23:06:05 +0000",
       "cave_spider": "2022-02-09 16:07:37 +0000",
+      "witch": "2022-02-19 18:45:48 +0000",
       "spider": "2022-02-01 21:48:48 +0000",
       "ghast": "2022-02-19 12:44:25 +0000",
       "creeper": "2022-02-09 16:10:05 +0000"
@@ -895,6 +902,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2022-02-19 18:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-02-01 19:15:48 +0000"
@@ -1060,6 +1073,12 @@
   "enderio:start/1_infinity_powder_get": {
     "criteria": {
       "inv_changed-enderio:item_material": "2022-02-05 18:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2022-02-19 17:15:15 +0000"
     },
     "done": true
   },
@@ -1249,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-02-19 17:17:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-02-01 21:32:49 +0000"
@@ -1348,6 +1373,7 @@
       "deep_ocean": "2022-02-06 12:12:42 +0000",
       "beaches": "2022-02-01 21:52:02 +0000",
       "extreme_hills_with_trees": "2022-02-04 18:49:08 +0000",
+      "mesa": "2022-02-19 18:43:28 +0000",
       "plains": "2022-02-01 18:57:56 +0000",
       "savanna": "2022-02-05 08:14:07 +0000",
       "savanna_rock": "2022-02-04 18:47:51 +0000",
