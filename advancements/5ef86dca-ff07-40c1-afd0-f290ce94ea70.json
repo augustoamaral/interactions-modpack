@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-02-20 19:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-02-01 19:18:28 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-02-05 23:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-02-20 19:46:03 +0000"
     },
     "done": true
   },
@@ -504,6 +516,13 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2022-02-01 21:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2022-02-20 19:51:57 +0000",
+      "iron_leggings": "2022-02-20 19:51:57 +0000"
     },
     "done": true
   },
@@ -1220,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-02-20 19:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2022-02-04 18:33:31 +0000"
@@ -1292,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-02-20 19:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-02-01 21:32:49 +0000"
@@ -1319,6 +1350,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2022-02-04 22:07:23 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2022-02-20 19:41:34 +0000"
     },
     "done": true
   },
@@ -1683,6 +1720,12 @@
   "rftools:alltheitems": {
     "criteria": {
       "placed_storage": "2022-02-13 19:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-02-20 19:54:14 +0000"
     },
     "done": true
   },
