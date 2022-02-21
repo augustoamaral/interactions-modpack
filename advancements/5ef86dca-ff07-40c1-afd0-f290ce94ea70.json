@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "astralsorcery:find_constellation": {
+    "criteria": {
+      "bright_constellation_discovered": "2022-02-21 22:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2022-02-15 23:04:55 +0000"
