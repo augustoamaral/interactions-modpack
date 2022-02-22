@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2022-02-21 23:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
@@ -76,6 +82,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-11-23 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2022-02-21 23:18:24 +0000"
     },
     "done": true
   },
@@ -288,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2022-02-21 23:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-11-23 00:07:24 +0000"
@@ -357,6 +375,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2021-11-28 21:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-02-21 23:18:58 +0000"
     },
     "done": true
   },
