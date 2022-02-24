@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-02-24 16:35:52 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2022-02-07 19:13:54 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2022-02-07 19:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-02-24 16:35:52 +0000"
     },
     "done": true
   },
@@ -597,7 +609,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2022-02-10 10:50:01 +0000"
+      "zombie": "2022-02-10 10:50:01 +0000",
+      "spider": "2022-02-24 16:40:24 +0000"
     },
     "done": false
   },
