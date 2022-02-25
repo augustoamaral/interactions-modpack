@@ -257,15 +257,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2022-02-24 17:59:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-02-24 17:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-02-24 17:59:23 +0000"
     },
     "done": true
   },
@@ -410,6 +410,12 @@
   "wizardry:advancement_devildust": {
     "criteria": {
       "craft_devil_dust": "2022-02-10 09:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2022-02-25 10:24:06 +0000"
     },
     "done": true
   },
