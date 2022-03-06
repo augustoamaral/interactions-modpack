@@ -1343,6 +1343,7 @@
       "taiga_cold_hills": "2021-11-19 20:46:46 +0000",
       "forest": "2021-11-18 22:27:10 +0000",
       "birch_forest": "2021-11-19 18:32:20 +0000",
+      "swampland": "2022-03-06 03:22:03 +0000",
       "deep_ocean": "2021-11-18 22:25:42 +0000",
       "beaches": "2021-11-18 22:13:53 +0000",
       "extreme_hills_with_trees": "2021-11-19 21:15:56 +0000",
@@ -1508,6 +1509,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2022-02-19 11:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-03-06 03:38:11 +0000"
     },
     "done": true
   },
