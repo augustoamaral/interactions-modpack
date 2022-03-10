@@ -704,6 +704,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2022-03-10 12:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2022-02-04 18:49:46 +0000"
