@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-03-10 08:57:15 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:item/1_item_conduit": {
     "criteria": {
       "inv_changed-enderio:item_conduit": "2022-02-05 10:20:37 +0000"
@@ -764,6 +770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-03-10 08:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-02-01 20:36:29 +0000"
@@ -1213,6 +1225,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2022-02-01 20:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2022-03-10 08:57:15 +0000"
     },
     "done": true
   },
