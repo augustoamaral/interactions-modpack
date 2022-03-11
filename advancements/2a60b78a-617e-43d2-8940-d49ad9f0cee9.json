@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2022-03-11 10:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2022-03-11 00:34:17 +0000"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-03-11 09:34:37 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2022-03-10 23:43:54 +0000",
@@ -499,9 +511,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2022-03-11 09:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-03-11 00:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-03-11 10:02:59 +0000"
     },
     "done": true
   },
@@ -577,11 +601,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-03-11 10:12:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2022-03-11 01:47:19 +0000",
       "birch_forest": "2022-03-11 01:22:49 +0000",
-      "plains": "2022-03-10 23:43:07 +0000"
+      "plains": "2022-03-10 23:43:07 +0000",
+      "river": "2022-03-11 09:42:08 +0000"
     },
     "done": false
   },
@@ -648,6 +679,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-03-10 23:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-03-11 09:34:37 +0000"
     },
     "done": true
   },
@@ -815,9 +852,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2022-03-11 09:42:32 +0000",
+      "zombie": "2022-03-11 09:42:19 +0000",
       "enderman": "2022-03-11 01:15:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2022-03-11 09:34:37 +0000"
+    },
+    "done": true
   },
   "advancedrocketry:normal/root": {
     "criteria": {
@@ -828,6 +873,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2022-03-10 23:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-03-11 09:34:37 +0000"
     },
     "done": true
   },
