@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "wizardry:advancement_manapool": {
+    "criteria": {
+      "manapool": "2022-03-12 19:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-11 00:54:48 +0000"
@@ -913,6 +919,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2022-03-10 23:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-03-12 19:44:23 +0000"
     },
     "done": true
   },
