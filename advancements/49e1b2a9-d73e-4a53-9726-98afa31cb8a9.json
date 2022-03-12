@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "bhc:main/heart_amulet": {
+    "criteria": {
+      "heart_amulet_in_inventory": "2022-03-12 18:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2022-01-22 23:44:19 +0000"
@@ -499,6 +505,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2022-03-12 18:10:50 +0000"
     },
     "done": true
   },
