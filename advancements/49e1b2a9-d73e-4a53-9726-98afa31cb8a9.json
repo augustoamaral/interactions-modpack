@@ -1122,6 +1122,12 @@
     },
     "done": true
   },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-03-13 04:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2022-02-06 20:52:02 +0000"
