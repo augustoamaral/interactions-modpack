@@ -636,6 +636,7 @@
       "slime": "2022-03-12 15:53:44 +0000",
       "skeleton": "2022-03-14 12:40:07 +0000",
       "zombie": "2022-03-11 09:42:19 +0000",
+      "cave_spider": "2022-03-14 16:03:41 +0000",
       "witch": "2022-03-14 14:39:17 +0000",
       "spider": "2022-03-12 15:50:56 +0000",
       "enderman": "2022-03-11 01:15:53 +0000"
@@ -717,6 +718,12 @@
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-03-13 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-03-14 16:16:18 +0000"
     },
     "done": true
   },
