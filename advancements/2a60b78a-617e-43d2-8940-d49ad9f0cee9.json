@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2022-03-14 12:00:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-03-10 23:46:01 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-03-11 00:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-03-14 12:32:10 +0000"
     },
     "done": true
   },
@@ -200,6 +212,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2022-03-10 23:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-03-14 12:32:10 +0000"
     },
     "done": true
   },
@@ -243,6 +261,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-03-10 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-14 12:00:09 +0000"
     },
     "done": true
   },
@@ -549,6 +573,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-03-14 12:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-03-14 12:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-03-11 00:54:48 +0000"
@@ -559,11 +595,18 @@
     "criteria": {
       "zombie_villager": "2022-03-11 09:42:32 +0000",
       "slime": "2022-03-12 15:53:44 +0000",
+      "skeleton": "2022-03-14 12:40:07 +0000",
       "zombie": "2022-03-11 09:42:19 +0000",
       "spider": "2022-03-12 15:50:56 +0000",
       "enderman": "2022-03-11 01:15:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-03-14 12:32:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -601,6 +644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-14 12:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-03-12 15:18:27 +0000"
@@ -634,6 +683,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-11 00:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-03-14 12:32:10 +0000"
     },
     "done": true
   },
@@ -697,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2022-03-14 12:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-03-11 00:07:14 +0000"
@@ -730,6 +791,18 @@
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-03-13 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-03-14 12:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2022-03-14 12:10:26 +0000"
     },
     "done": true
   },
@@ -925,6 +998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-14 12:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-03-11 01:26:33 +0000"
@@ -1037,6 +1116,7 @@
       "swampland": "2022-03-12 20:17:30 +0000",
       "deep_ocean": "2022-03-12 18:40:31 +0000",
       "beaches": "2022-03-12 18:40:38 +0000",
+      "extreme_hills_with_trees": "2022-03-14 12:22:14 +0000",
       "mesa": "2022-03-12 18:39:10 +0000",
       "plains": "2022-03-10 23:43:07 +0000",
       "savanna": "2022-03-12 18:36:42 +0000",
@@ -1044,6 +1124,7 @@
       "savanna_rock": "2022-03-13 13:41:44 +0000",
       "ice_mountains": "2022-03-12 20:12:59 +0000",
       "taiga": "2022-03-12 20:15:56 +0000",
+      "redwood_taiga": "2022-03-14 12:31:17 +0000",
       "redwood_taiga_hills": "2022-03-12 20:12:48 +0000",
       "taiga_hills": "2022-03-12 20:17:17 +0000",
       "birch_forest_hills": "2022-03-13 13:37:23 +0000",
@@ -1124,6 +1205,12 @@
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2022-03-10 23:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2022-03-14 12:10:26 +0000"
     },
     "done": true
   },
@@ -1232,6 +1319,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2022-03-10 23:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-14 12:00:09 +0000"
     },
     "done": true
   },
