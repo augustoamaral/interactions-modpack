@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2022-03-14 14:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-03-11 00:55:21 +0000"
@@ -251,6 +257,18 @@
     },
     "done": true
   },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2022-03-14 14:57:27 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:item/3_big_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_big_item_filter": "2022-03-14 14:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2022-03-13 14:21:11 +0000",
@@ -264,9 +282,21 @@
     },
     "done": true
   },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2022-03-14 14:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2022-03-14 12:00:09 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2022-03-14 14:53:35 +0000"
     },
     "done": true
   },
@@ -495,6 +525,14 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit2": "2022-03-14 14:57:26 +0000",
+      "inv_changed-enderio:item_conduit2": "2022-03-14 14:57:27 +0000",
+      "inv_changed-enderio:liquid_conduit_ender2": "2022-03-14 14:57:26 +0000"
+    },
+    "done": false
+  },
   "bhc:main/root": {
     "criteria": {
       "red_heart_in_inventory": "2022-03-12 19:53:08 +0000"
@@ -597,6 +635,7 @@
       "slime": "2022-03-12 15:53:44 +0000",
       "skeleton": "2022-03-14 12:40:07 +0000",
       "zombie": "2022-03-11 09:42:19 +0000",
+      "witch": "2022-03-14 14:39:17 +0000",
       "spider": "2022-03-12 15:50:56 +0000",
       "enderman": "2022-03-11 01:15:53 +0000"
     },
@@ -1082,6 +1121,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2022-03-14 14:57:17 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:rock_crystals": {
     "criteria": {
       "rock_crystal_in_inventory": "2022-03-12 23:35:25 +0000"
@@ -1151,6 +1196,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-03-13 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2022-03-14 14:57:26 +0000"
     },
     "done": true
   },
@@ -1310,6 +1361,12 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_big_item_filter2": "2022-03-14 14:57:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-03-11 09:34:37 +0000"
@@ -1403,6 +1460,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2022-03-11 01:31:06 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2022-03-14 14:57:26 +0000"
     },
     "done": true
   }
