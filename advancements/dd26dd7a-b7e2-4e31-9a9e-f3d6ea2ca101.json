@@ -538,6 +538,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "taiga_cold_hills": "2022-02-10 10:35:51 +0000",
+      "frozen_river": "2022-03-14 17:16:00 +0000",
+      "forest": "2022-03-14 17:19:57 +0000",
       "extreme_hills_with_trees": "2022-02-10 12:54:03 +0000",
       "plains": "2022-02-07 19:13:54 +0000",
       "ice_mountains": "2022-02-10 10:35:53 +0000",
