@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2022-03-17 23:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-11-16 23:52:59 +0000"
