@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-03-20 19:35:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2022-03-11 00:34:17 +0000"
@@ -1338,6 +1344,12 @@
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2022-03-11 01:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-03-20 19:35:22 +0000"
     },
     "done": true
   },
