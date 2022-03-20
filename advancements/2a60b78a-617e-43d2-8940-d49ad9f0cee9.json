@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-03-20 20:56:22 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2022-03-10 23:43:07 +0000"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-03-20 20:55:27 +0000"
+    },
+    "done": true
+  },
   "projecte:transmutation_tablet": {
     "criteria": {
       "trans_tablet": "2022-03-11 01:44:39 +0000"
@@ -104,6 +116,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2022-03-11 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-03-20 20:53:41 +0000"
     },
     "done": true
   },
@@ -218,6 +236,12 @@
   "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-03-13 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-03-20 21:16:10 +0000"
     },
     "done": true
   },
@@ -649,6 +673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-03-20 21:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-03-11 00:54:48 +0000"
@@ -987,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-03-20 20:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2022-03-11 01:36:34 +0000"
@@ -1050,6 +1086,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-03-13 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-03-20 21:16:07 +0000"
     },
     "done": true
   },
@@ -1401,6 +1443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-03-20 20:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-03-11 01:36:34 +0000"
@@ -1428,6 +1476,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-03-14 16:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2022-03-20 20:55:27 +0000"
     },
     "done": true
   },
