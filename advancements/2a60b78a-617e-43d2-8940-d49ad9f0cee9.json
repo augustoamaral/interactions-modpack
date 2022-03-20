@@ -282,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-03-20 12:27:06 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:redstone/1_redstone_conduit": {
     "criteria": {
       "inv_changed-enderio:redstone_conduit": "2022-03-14 14:57:26 +0000"
