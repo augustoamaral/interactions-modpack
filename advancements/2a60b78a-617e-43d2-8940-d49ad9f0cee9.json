@@ -354,6 +354,12 @@
     },
     "done": true
   },
+  "botania:main/dandelifeon_pickup": {
+    "criteria": {
+      "dandelifeon": "2022-03-21 21:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-03-11 09:28:04 +0000"
@@ -670,6 +676,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2022-03-12 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "code_triggered": "2022-03-21 21:08:23 +0000"
     },
     "done": true
   },
@@ -1041,6 +1053,12 @@
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2022-03-21 20:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-03-11 09:28:22 +0000"
@@ -1230,6 +1248,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2022-03-20 15:45:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2022-03-21 21:26:53 +0000"
     },
     "done": true
   },
