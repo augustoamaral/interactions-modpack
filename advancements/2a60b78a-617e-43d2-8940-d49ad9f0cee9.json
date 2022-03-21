@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-03-21 15:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2022-03-12 20:36:55 +0000"
@@ -483,6 +489,12 @@
     },
     "done": true
   },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2022-03-21 16:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-03-10 23:46:54 +0000"
@@ -702,6 +714,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-03-14 12:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-03-21 15:36:02 +0000"
     },
     "done": true
   },
@@ -936,6 +954,12 @@
   "wizardry:advancement_manapool": {
     "criteria": {
       "manapool": "2022-03-12 19:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-03-21 15:37:45 +0000"
     },
     "done": true
   },
