@@ -807,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-03-21 16:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-11 00:54:48 +0000"
@@ -1572,6 +1578,12 @@
   "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-03-13 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2022-03-21 17:24:49 +0000"
     },
     "done": true
   },
