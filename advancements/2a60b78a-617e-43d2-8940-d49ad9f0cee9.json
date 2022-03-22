@@ -1655,6 +1655,12 @@
     },
     "done": true
   },
+  "rftools:alltheitems": {
+    "criteria": {
+      "placed_storage": "2022-03-22 10:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2022-03-11 01:36:34 +0000"
