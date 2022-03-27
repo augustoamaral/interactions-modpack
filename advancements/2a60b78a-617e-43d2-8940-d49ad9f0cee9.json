@@ -766,7 +766,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2022-03-27 12:19:51 +0000",
       "zombie_villager": "2022-03-11 09:42:32 +0000",
+      "magma_cube": "2022-03-27 12:21:45 +0000",
       "slime": "2022-03-12 15:53:44 +0000",
       "skeleton": "2022-03-14 12:40:07 +0000",
       "husk": "2022-03-22 00:54:06 +0000",
@@ -1318,6 +1320,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-03-11 00:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2022-03-27 12:21:45 +0000"
     },
     "done": true
   },
