@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-03-27 19:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-03-10 23:45:21 +0000"
@@ -964,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-03-27 18:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-03-10 23:46:01 +0000"
@@ -1336,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-03-27 19:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-03-11 00:58:20 +0000"
@@ -1464,7 +1482,8 @@
       "ocean": "2022-03-12 18:40:10 +0000",
       "roofed_forest": "2022-03-13 13:54:47 +0000",
       "river": "2022-03-11 09:42:08 +0000",
-      "jungle": "2022-03-12 20:08:31 +0000"
+      "jungle": "2022-03-12 20:08:31 +0000",
+      "desert": "2022-03-27 18:33:20 +0000"
     },
     "done": false
   },
@@ -1735,6 +1754,12 @@
   "rftools:alltheitems": {
     "criteria": {
       "placed_storage": "2022-03-22 10:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-03-27 19:21:27 +0000"
     },
     "done": true
   },
