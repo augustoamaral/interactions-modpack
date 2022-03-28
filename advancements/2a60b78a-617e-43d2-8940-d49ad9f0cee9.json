@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "botania:main/brew_pickup": {
+    "criteria": {
+      "vial": "2022-03-28 01:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2022-03-10 23:45:21 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-03-11 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-03-28 01:28:29 +0000"
     },
     "done": true
   },
@@ -800,6 +812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-03-28 01:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-03-11 00:54:48 +0000"
@@ -1243,6 +1261,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2022-03-24 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2022-03-28 01:28:29 +0000"
     },
     "done": true
   },
