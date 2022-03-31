@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/2_basic_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter": "2022-03-31 17:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2022-03-10 23:47:05 +0000"
@@ -1763,7 +1769,8 @@
   },
   "enderioconduits:goals/all_filters": {
     "criteria": {
-      "inv_changed-enderio:item_big_item_filter2": "2022-03-14 14:57:27 +0000"
+      "inv_changed-enderio:item_big_item_filter2": "2022-03-14 14:57:27 +0000",
+      "inv_changed-enderio:item_basic_item_filter2": "2022-03-31 17:41:02 +0000"
     },
     "done": false
   },
