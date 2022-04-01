@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "astralsorcery:find_constellation": {
+    "criteria": {
+      "bright_constellation_discovered": "2022-04-01 12:59:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2022-03-20 20:56:22 +0000"
@@ -472,6 +478,12 @@
     },
     "done": true
   },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2022-04-01 13:00:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2022-03-11 00:48:05 +0000"
@@ -578,6 +590,12 @@
   "botania:challenge/root": {
     "criteria": {
       "flower": "2022-03-24 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_medium": {
+    "criteria": {
+      "gain_perk_level_medium": "2022-04-01 13:45:56 +0000"
     },
     "done": true
   },
@@ -738,6 +756,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-03-11 09:28:04 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2022-04-01 13:09:28 +0000"
     },
     "done": true
   },
@@ -1746,6 +1770,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-03-14 16:00:23 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:find_weak_constellation": {
+    "criteria": {
+      "weak_constellation_discovered": "2022-04-01 13:20:13 +0000"
     },
     "done": true
   },
