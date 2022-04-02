@@ -1773,6 +1773,12 @@
     },
     "done": true
   },
+  "rftools:clearvision": {
+    "criteria": {
+      "placed_screen": "2022-04-02 16:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2022-03-15 22:29:00 +0000"
@@ -1855,6 +1861,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-03-13 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "rftools:elevator": {
+    "criteria": {
+      "placed_elevator": "2022-04-02 17:02:16 +0000"
     },
     "done": true
   },
