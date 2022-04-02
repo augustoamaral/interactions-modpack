@@ -730,6 +730,7 @@
       "inv_changed-enderio:liquid_conduit_pressurized2": "2022-03-14 15:07:47 +0000",
       "inv_changed-enderio:liquid_conduit2": "2022-03-15 11:53:39 +0000",
       "inv_changed-enderio:redstone_conduit2": "2022-03-14 14:57:26 +0000",
+      "inv_changed-enderio:power_conduit2": "2022-04-02 21:03:39 +0000",
       "inv_changed-enderio:item_conduit2": "2022-03-14 14:57:27 +0000",
       "inv_changed-enderio:liquid_conduit_ender2": "2022-03-14 14:57:26 +0000"
     },
@@ -1376,6 +1377,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-03-11 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2022-04-02 21:03:39 +0000"
     },
     "done": true
   },
