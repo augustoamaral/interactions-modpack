@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "astralsorcery:attune_crystal": {
+    "criteria": {
+      "attune_crystal_major_weak": "2022-04-03 19:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-03-11 00:55:21 +0000"
