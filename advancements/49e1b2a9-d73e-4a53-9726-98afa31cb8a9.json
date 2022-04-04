@@ -550,6 +550,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/holographic": {
+    "criteria": {
+      "warp": "2022-04-04 15:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-11-09 22:13:44 +0000"
