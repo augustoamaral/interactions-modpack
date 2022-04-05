@@ -442,6 +442,12 @@
     },
     "done": true
   },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2022-04-05 22:50:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2021-11-10 20:17:51 +0000"
@@ -535,6 +541,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-11-19 19:32:38 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_medium": {
+    "criteria": {
+      "gain_perk_level_medium": "2022-04-05 23:07:24 +0000"
     },
     "done": true
   },
@@ -708,6 +720,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2022-04-05 23:01:48 +0000"
     },
     "done": true
   },
