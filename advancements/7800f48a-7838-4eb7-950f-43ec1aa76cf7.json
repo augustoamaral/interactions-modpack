@@ -411,7 +411,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2021-11-23 23:14:29 +0000",
-      "pumpkin_pie": "2022-04-07 19:13:21 +0000"
+      "pumpkin_pie": "2022-04-07 19:13:21 +0000",
+      "golden_apple": "2022-04-07 22:20:10 +0000"
     },
     "done": false
   },
@@ -466,6 +467,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-11-24 00:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-04-07 22:30:19 +0000"
     },
     "done": true
   },
