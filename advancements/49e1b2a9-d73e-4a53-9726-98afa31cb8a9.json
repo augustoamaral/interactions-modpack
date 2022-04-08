@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-04-08 00:27:53 +0000"
+    },
+    "done": true
+  },
   "botania:main/generating_flower": {
     "criteria": {
       "code_triggered": "2022-02-24 10:25:42 +0000"
@@ -383,6 +389,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-11-18 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2022-04-08 00:27:53 +0000"
     },
     "done": true
   },
@@ -1737,6 +1749,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-01-21 21:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2022-04-08 00:27:53 +0000"
     },
     "done": true
   },
