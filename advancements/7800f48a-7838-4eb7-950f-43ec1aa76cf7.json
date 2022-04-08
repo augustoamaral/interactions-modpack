@@ -156,6 +156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2022-04-08 12:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2021-11-23 23:21:09 +0000"
@@ -520,7 +526,8 @@
   },
   "enderioconduits:root": {
     "criteria": {
-      "inv_changed-enderio:gravel": "2021-11-24 00:44:24 +0000"
+      "inv_changed-enderio:gravel": "2021-11-24 00:44:24 +0000",
+      "inv_changed-enderio:sand": "2022-04-08 12:01:42 +0000"
     },
     "done": false
   },
