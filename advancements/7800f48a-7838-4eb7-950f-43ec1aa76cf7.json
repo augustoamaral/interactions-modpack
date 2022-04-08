@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit2": "2022-04-08 11:52:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-11-23 23:32:35 +0000"
@@ -402,6 +408,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2022-04-08 11:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
@@ -439,6 +451,12 @@
       "has_stone": "2021-11-24 00:45:07 +0000"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_limited_item_filter2": "2022-04-08 11:52:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
