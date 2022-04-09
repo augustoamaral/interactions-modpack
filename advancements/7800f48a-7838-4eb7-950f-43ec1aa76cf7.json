@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-04-09 17:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2022-04-08 20:14:29 +0000"
@@ -404,6 +410,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "silverfish": "2022-04-09 17:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
@@ -542,6 +554,12 @@
       "inv_changed-enderio:item_conduit2": "2022-04-08 11:52:19 +0000"
     },
     "done": false
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2022-04-09 17:56:06 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -686,6 +704,12 @@
       "has_glass": "2022-04-08 20:11:04 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "silverfish": "2022-04-09 17:55:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
