@@ -1135,6 +1135,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/suitedup": {
+    "criteria": {
+      "suited": "2022-04-09 19:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-09 22:04:52 +0000"
