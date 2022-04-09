@@ -307,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-09 20:58:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
@@ -457,6 +463,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-04-07 19:28:48 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:item/2_basic_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter": "2022-04-09 20:41:31 +0000"
     },
     "done": true
   },
@@ -743,7 +755,8 @@
   },
   "enderioconduits:goals/all_filters": {
     "criteria": {
-      "inv_changed-enderio:item_limited_item_filter2": "2022-04-08 11:52:19 +0000"
+      "inv_changed-enderio:item_limited_item_filter2": "2022-04-08 11:52:19 +0000",
+      "inv_changed-enderio:item_basic_item_filter2": "2022-04-09 20:41:31 +0000"
     },
     "done": false
   },
@@ -798,6 +811,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2021-11-23 23:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2022-04-09 20:50:22 +0000"
     },
     "done": true
   },
