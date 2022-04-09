@@ -367,6 +367,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/3_advanced_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_advanced_item_filter": "2022-04-09 22:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-04-08 19:16:43 +0000"
@@ -437,6 +443,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2021-11-24 13:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2022-04-09 22:16:19 +0000"
     },
     "done": true
   },
@@ -769,6 +781,7 @@
   },
   "enderioconduits:goals/all_filters": {
     "criteria": {
+      "inv_changed-enderio:item_advanced_item_filter2": "2022-04-09 22:17:28 +0000",
       "inv_changed-enderio:item_limited_item_filter2": "2022-04-08 11:52:19 +0000",
       "inv_changed-enderio:item_basic_item_filter2": "2022-04-09 20:41:31 +0000"
     },

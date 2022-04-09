@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/onesmallstep": {
+    "criteria": {
+      "onesmallstep": "2022-04-09 22:14:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-09 22:04:52 +0000"
@@ -1168,6 +1174,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2021-11-18 23:51:32 +0000"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/moonlanding": {
+    "criteria": {
+      "moonlanding": "2022-04-09 22:14:09 +0000"
     },
     "done": true
   },
