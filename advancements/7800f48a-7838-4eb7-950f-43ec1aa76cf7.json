@@ -343,6 +343,12 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2022-04-09 21:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
@@ -563,9 +569,17 @@
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
+      "inv_changed-enderio:liquid_conduit2": "2022-04-09 21:09:53 +0000",
+      "inv_changed-enderio:power_conduit2": "2022-04-09 21:23:19 +0000",
       "inv_changed-enderio:item_conduit2": "2022-04-08 11:52:19 +0000"
     },
     "done": false
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2022-04-09 21:09:53 +0000"
+    },
+    "done": true
   },
   "bhc:main/root": {
     "criteria": {
