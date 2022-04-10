@@ -587,15 +587,15 @@
     },
     "done": false
   },
-  "enderioconduits:fluid/1_fluid_conduit": {
-    "criteria": {
-      "inv_changed-enderio:liquid_conduit": "2022-04-09 21:09:53 +0000"
-    },
-    "done": true
-  },
   "bhc:main/root": {
     "criteria": {
       "red_heart_in_inventory": "2022-04-09 17:56:06 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2022-04-09 21:09:53 +0000"
     },
     "done": true
   },
