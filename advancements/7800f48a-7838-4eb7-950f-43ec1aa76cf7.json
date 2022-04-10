@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-04-10 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2022-04-10 21:37:01 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2021-11-23 00:03:43 +0000"
@@ -56,6 +68,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-24 13:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-04-10 21:35:15 +0000"
     },
     "done": true
   },
@@ -101,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2022-04-10 21:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
@@ -134,6 +158,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2022-04-10 21:34:17 +0000"
     },
     "done": true
   },
@@ -173,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-04-10 21:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
@@ -209,15 +245,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-04-10 21:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
     },
     "done": true
   },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2022-04-10 21:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2021-11-23 00:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-04-10 21:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2022-04-10 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-04-10 21:34:41 +0000"
     },
     "done": true
   },
@@ -275,9 +341,21 @@
     },
     "done": true
   },
+  "enderioconduits:item/3_big_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_big_item_filter": "2022-04-10 21:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2022-04-10 21:34:17 +0000"
     },
     "done": true
   },
@@ -310,6 +388,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-04-09 20:58:48 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2022-04-10 21:36:38 +0000"
     },
     "done": true
   },
@@ -373,6 +457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2022-04-10 21:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-04-08 19:16:43 +0000"
@@ -382,9 +472,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2021-11-24 00:44:24 +0000",
+      "inv_changed-enderio:clay": "2022-04-10 21:35:47 +0000",
       "inv_changed-enderio:sand": "2022-04-08 12:01:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
@@ -398,6 +489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2022-04-10 21:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2022-04-08 19:16:43 +0000"
@@ -407,6 +504,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-11-23 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/2_fluid_conduit_pressurized": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_pressurized": "2022-04-10 21:36:30 +0000"
     },
     "done": true
   },
@@ -428,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-04-10 21:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "silverfish": "2022-04-09 17:55:52 +0000"
@@ -437,6 +546,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2022-04-10 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2022-04-10 21:47:45 +0000"
     },
     "done": true
   },
@@ -460,15 +581,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-04-10 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2022-04-10 21:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-11-23 23:32:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-04-10 21:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-04-10 21:48:11 +0000"
     },
     "done": true
   },
@@ -543,6 +688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-04-10 21:37:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
@@ -582,8 +733,11 @@
   "enderioconduits:goals/all_conduits": {
     "criteria": {
       "inv_changed-enderio:liquid_conduit2": "2022-04-09 21:09:53 +0000",
+      "inv_changed-enderio:liquid_conduit_pressurized2": "2022-04-10 21:36:30 +0000",
+      "inv_changed-enderio:redstone_conduit2": "2022-04-10 21:36:38 +0000",
       "inv_changed-enderio:power_conduit2": "2022-04-09 21:23:19 +0000",
-      "inv_changed-enderio:item_conduit2": "2022-04-08 11:52:19 +0000"
+      "inv_changed-enderio:item_conduit2": "2022-04-08 11:52:19 +0000",
+      "inv_changed-enderio:liquid_conduit_ender2": "2022-04-10 21:36:38 +0000"
     },
     "done": false
   },
@@ -725,6 +879,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-04-10 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-04-10 21:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-04-10 21:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2022-04-08 20:14:13 +0000"
@@ -748,6 +920,12 @@
       "silverfish": "2022-04-09 17:55:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-04-10 21:35:15 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
@@ -781,6 +959,7 @@
   },
   "enderioconduits:goals/all_filters": {
     "criteria": {
+      "inv_changed-enderio:item_big_item_filter2": "2022-04-10 21:36:38 +0000",
       "inv_changed-enderio:item_advanced_item_filter2": "2022-04-09 22:17:28 +0000",
       "inv_changed-enderio:item_limited_item_filter2": "2022-04-08 11:52:19 +0000",
       "inv_changed-enderio:item_basic_item_filter2": "2022-04-09 20:41:31 +0000"
@@ -823,6 +1002,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-04-10 21:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2022-04-07 22:30:19 +0000"
@@ -832,6 +1017,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-04-10 21:35:15 +0000"
     },
     "done": true
   },
@@ -862,6 +1053,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-11-23 23:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-04-10 21:48:11 +0000"
     },
     "done": true
   },
@@ -910,6 +1107,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2021-11-24 13:26:17 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2022-04-10 21:36:38 +0000"
     },
     "done": true
   }
