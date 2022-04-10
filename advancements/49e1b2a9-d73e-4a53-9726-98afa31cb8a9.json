@@ -1357,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2022-04-10 19:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2022-02-11 18:00:27 +0000"
@@ -1833,6 +1839,12 @@
   "rftools:alltheitems": {
     "criteria": {
       "placed_storage": "2022-02-21 20:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2022-04-10 19:51:30 +0000"
     },
     "done": true
   },
