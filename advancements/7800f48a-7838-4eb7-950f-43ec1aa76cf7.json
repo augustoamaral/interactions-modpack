@@ -939,6 +939,12 @@
     },
     "done": true
   },
+  "rftools:clearvision": {
+    "criteria": {
+      "placed_screen": "2022-04-13 13:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2022-04-07 19:39:37 +0000"
