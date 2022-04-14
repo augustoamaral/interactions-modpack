@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-04-13 23:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-11-24 13:45:35 +0000"
@@ -596,6 +602,12 @@
   "rftools:specialores": {
     "criteria": {
       "find_ores": "2022-04-10 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-04-13 23:41:24 +0000"
     },
     "done": true
   },
