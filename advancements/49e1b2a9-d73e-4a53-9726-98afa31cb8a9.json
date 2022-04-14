@@ -514,6 +514,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2022-04-14 13:19:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2022-01-30 20:28:37 +0000"
@@ -1742,6 +1748,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-11-19 19:32:38 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/fluix": {
+    "criteria": {
+      "certus": "2022-04-14 13:08:59 +0000"
     },
     "done": true
   },
