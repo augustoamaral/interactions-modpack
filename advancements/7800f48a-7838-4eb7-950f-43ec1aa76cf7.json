@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-04-15 12:51:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2022-04-10 21:37:01 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/brew_pickup": {
+    "criteria": {
+      "vial": "2022-04-15 12:59:39 +0000"
     },
     "done": true
   },
@@ -318,6 +330,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-11-23 01:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-04-15 12:54:16 +0000"
     },
     "done": true
   },
@@ -576,7 +594,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "silverfish": "2022-04-09 17:55:52 +0000"
+      "silverfish": "2022-04-09 17:55:52 +0000",
+      "ghast": "2022-04-15 13:02:26 +0000"
     },
     "done": false
   },
