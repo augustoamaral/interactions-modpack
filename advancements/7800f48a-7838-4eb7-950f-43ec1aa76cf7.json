@@ -532,6 +532,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2022-04-15 22:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
@@ -635,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-04-15 22:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
@@ -701,6 +713,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2022-04-15 22:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-11-23 23:21:09 +0000"
@@ -764,6 +782,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-04-15 22:14:36 +0000"
     },
     "done": true
   },
@@ -872,6 +896,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-04-10 21:34:17 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2022-04-15 22:37:29 +0000"
     },
     "done": true
   },
@@ -1018,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-04-15 22:27:46 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:fluid/1_fluid_conduit": {
     "criteria": {
       "inv_changed-enderio:liquid_conduit": "2022-04-09 21:09:53 +0000"
@@ -1123,6 +1159,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2022-04-07 19:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-04-15 22:27:46 +0000"
     },
     "done": true
   },
