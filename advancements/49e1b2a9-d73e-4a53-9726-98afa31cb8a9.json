@@ -1405,6 +1405,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_bus": {
+    "criteria": {
+      "part": "2022-04-17 20:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2022-01-31 21:22:37 +0000"
