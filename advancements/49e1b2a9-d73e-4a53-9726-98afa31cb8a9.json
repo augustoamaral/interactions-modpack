@@ -646,6 +646,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/p2p": {
+    "criteria": {
+      "certus": "2022-04-21 00:31:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-11-18 21:28:20 +0000"
@@ -1959,6 +1965,12 @@
   "appliedenergistics2:main/storage_cell": {
     "criteria": {
       "c1k": "2022-04-14 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2022-04-21 00:35:23 +0000"
     },
     "done": true
   },
