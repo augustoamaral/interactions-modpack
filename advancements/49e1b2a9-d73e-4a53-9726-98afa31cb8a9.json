@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/crafting_cpu": {
+    "criteria": {
+      "c4k": "2022-04-22 15:17:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2021-11-10 01:16:02 +0000"
@@ -1760,6 +1766,12 @@
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2022-04-14 13:48:30 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/pattern_terminal": {
+    "criteria": {
+      "certus": "2022-04-22 15:23:20 +0000"
     },
     "done": true
   },
