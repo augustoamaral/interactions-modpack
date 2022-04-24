@@ -1968,6 +1968,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/network2": {
+    "criteria": {
+      "cable": "2022-04-24 02:31:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-11-09 22:13:44 +0000"
