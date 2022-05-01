@@ -1,0 +1,26 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2022-05-01 16:11:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2022-05-01 16:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-05-01 16:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-05-01 16:11:42 +0000"
+    },
+    "done": false
+  }
+}
