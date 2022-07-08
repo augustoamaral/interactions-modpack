@@ -29,6 +29,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_the_recipe": "2022-07-08 17:45:26 +0000",
+      "has_planks": "2022-07-08 17:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2022-07-08 17:37:40 +0000",
+      "has_the_recipe": "2022-07-08 17:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-07-08 17:43:24 +0000",
+      "has_the_recipe": "2022-07-08 17:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2022-07-08 17:43:24 +0000",
+      "has_the_recipe": "2022-07-08 17:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_the_recipe": "2022-07-08 17:45:26 +0000",
+      "has_planks": "2022-07-08 17:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2022-07-08 16:58:06 +0000"
@@ -53,6 +88,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2022-07-08 17:45:26 +0000",
+      "has_planks": "2022-07-08 17:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_the_recipe": "2022-07-08 17:45:26 +0000",
+      "has_planks": "2022-07-08 17:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "plains": "2022-07-08 16:54:35 +0000"
@@ -62,6 +111,13 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-07-08 16:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2022-07-08 17:31:07 +0000",
+      "has_sand": "2022-07-08 17:31:07 +0000"
     },
     "done": true
   },
@@ -95,9 +151,22 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-07-08 17:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-07-08 16:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2022-07-08 17:37:40 +0000",
+      "has_the_recipe": "2022-07-08 17:37:40 +0000"
     },
     "done": true
   },
@@ -137,6 +206,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2022-07-08 17:37:40 +0000",
+      "has_the_recipe": "2022-07-08 17:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2022-07-08 16:58:06 +0000"
@@ -145,9 +221,11 @@
   },
   "enderioconduits:root": {
     "criteria": {
-      "inv_changed-enderio:gravel": "2022-07-08 16:55:34 +0000"
+      "inv_changed-enderio:gravel": "2022-07-08 16:55:34 +0000",
+      "inv_changed-enderio:clay": "2022-07-08 17:52:38 +0000",
+      "inv_changed-enderio:sand": "2022-07-08 17:31:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
@@ -164,6 +242,40 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2022-07-08 16:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2022-07-08 17:37:40 +0000",
+      "has_the_recipe": "2022-07-08 17:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-07-08 17:52:38 +0000",
+      "has_the_recipe": "2022-07-08 17:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2022-07-08 17:37:40 +0000",
+      "has_the_recipe": "2022-07-08 17:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2022-07-08 17:37:40 +0000",
+      "has_the_recipe": "2022-07-08 17:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/root": {
+    "criteria": {
+      "impossible": "2022-07-08 17:31:07 +0000"
     },
     "done": true
   }
