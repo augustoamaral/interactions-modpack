@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2022-07-26 22:59:44 +0000"
+    },
+    "done": false
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2022-07-26 18:28:13 +0000"
