@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-07-29 14:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-27 00:54:42 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-07-29 14:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-27 00:54:42 +0000"
@@ -302,6 +314,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-07-28 19:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-07-29 14:37:22 +0000"
     },
     "done": true
   },
@@ -603,6 +621,13 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2022-07-29 14:37:22 +0000",
+      "iron_leggings": "2022-07-29 14:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-07-26 21:42:12 +0000"
@@ -630,8 +655,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "taiga_cold_hills": "2022-07-28 20:16:07 +0000",
+      "frozen_river": "2022-07-29 14:42:11 +0000",
+      "extreme_hills_with_trees": "2022-07-29 15:07:45 +0000",
       "plains": "2022-07-26 18:28:13 +0000",
-      "taiga_cold": "2022-07-28 19:48:21 +0000"
+      "taiga": "2022-07-29 14:36:32 +0000",
+      "taiga_hills": "2022-07-29 14:40:58 +0000",
+      "taiga_cold": "2022-07-28 19:48:21 +0000",
+      "cold_beach": "2022-07-29 14:35:39 +0000",
+      "river": "2022-07-29 14:45:20 +0000"
     },
     "done": false
   },
@@ -857,6 +888,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-07-29 14:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-07-29 14:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-07-28 01:52:12 +0000"
@@ -889,9 +932,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2022-07-28 19:22:43 +0000"
+      "zombie": "2022-07-28 19:22:43 +0000",
+      "spider": "2022-07-29 15:02:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-07-29 14:37:22 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
@@ -986,6 +1036,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-27 00:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-07-29 14:37:22 +0000"
     },
     "done": true
   },
