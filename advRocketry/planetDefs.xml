@@ -37,53 +37,199 @@
         <planet DIMID="150" name="Sol-150">
             <isKnown>false</isKnown>
             <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
             <gas>hydrogen</gas>
             <gas>nitrogen</gas>
+            <gas>oxygen</gas>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
             <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>202</orbitalDistance>
+            <orbitalDistance>191</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>202</avgTemperature>
+            <avgTemperature>208</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>142</atmosphereDensity>
+            <atmosphereDensity>112</atmosphereDensity>
             <generateCraters>false</generateCraters>
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-        </planet>
-        <planet DIMID="151" name="Sol-151">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>hydrogen</gas>
-            <gas>nitrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>110</gravitationalMultiplier>
-            <orbitalDistance>221</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>193</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>160</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="152" name="Sol-151: 0">
+            <planet DIMID="151" name="Sol-150: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.8167274,1.0</skyColor>
-                <gravitationalMultiplier>75</gravitationalMultiplier>
-                <orbitalDistance>188</orbitalDistance>
-                <orbitalTheta>284</orbitalTheta>
-                <orbitalPhi>-300</orbitalPhi>
-                <avgTemperature>186</avgTemperature>
-                <rotationalPeriod>56888</rotationalPeriod>
-                <atmosphereDensity>17</atmosphereDensity>
+                <skyColor>0.8,0.58458084,0.9775441</skyColor>
+                <gravitationalMultiplier>89</gravitationalMultiplier>
+                <orbitalDistance>183</orbitalDistance>
+                <orbitalTheta>68</orbitalTheta>
+                <orbitalPhi>-108</orbitalPhi>
+                <avgTemperature>189</avgTemperature>
+                <rotationalPeriod>34044</rotationalPeriod>
+                <atmosphereDensity>24</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="152" name="Sol-150: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.92900777,0.9518996</skyColor>
+                <gravitationalMultiplier>70</gravitationalMultiplier>
+                <orbitalDistance>169</orbitalDistance>
+                <orbitalTheta>301</orbitalTheta>
+                <orbitalPhi>-299</orbitalPhi>
+                <avgTemperature>196</avgTemperature>
+                <rotationalPeriod>69970</rotationalPeriod>
+                <atmosphereDensity>26</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>minecraft:mutated_mesa_rock,minecraft:extreme_hills,minecraft:beaches,minecraft:extreme_hills_with_trees,traverse:badlands</biomeIds>
+            </planet>
+            <planet DIMID="153" name="Sol-150: 2">
+                <isKnown>false</isKnown>
+                <hasRings>true</hasRings>
+                <ringColor>0.8,0.88363063,0.9728457</ringColor>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.88363063,0.9728457</skyColor>
+                <gravitationalMultiplier>80</gravitationalMultiplier>
+                <orbitalDistance>166</orbitalDistance>
+                <orbitalTheta>282</orbitalTheta>
+                <orbitalPhi>-277</orbitalPhi>
+                <avgTemperature>198</avgTemperature>
+                <rotationalPeriod>46875</rotationalPeriod>
+                <atmosphereDensity>27</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:autumnal_wooded_hills,minecraft:mesa,traverse:arid_highland,minecraft:jungle_edge,traverse:thicket</biomeIds>
+            </planet>
+            <planet DIMID="154" name="Sol-150: 3">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.97783345,1.0</skyColor>
+                <gravitationalMultiplier>52</gravitationalMultiplier>
+                <orbitalDistance>191</orbitalDistance>
+                <orbitalTheta>213</orbitalTheta>
+                <orbitalPhi>10</orbitalPhi>
+                <avgTemperature>185</avgTemperature>
+                <rotationalPeriod>170687</rotationalPeriod>
+                <atmosphereDensity>35</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>minecraft:savanna_rock,minecraft:mutated_mesa_rock,minecraft:beaches,minecraft:mutated_forest,minecraft:mutated_birch_forest_hills</biomeIds>
+            </planet>
+            <planet DIMID="155" name="Sol-150: 4">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.6773775,0.95271856</skyColor>
+                <gravitationalMultiplier>76</gravitationalMultiplier>
+                <orbitalDistance>145</orbitalDistance>
+                <orbitalTheta>150</orbitalTheta>
+                <orbitalPhi>84</orbitalPhi>
+                <avgTemperature>212</avgTemperature>
+                <rotationalPeriod>54672</rotationalPeriod>
+                <atmosphereDensity>21</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="156" name="Sol-150: 5">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7588907,0.9732872</skyColor>
+                <gravitationalMultiplier>76</gravitationalMultiplier>
+                <orbitalDistance>149</orbitalDistance>
+                <orbitalTheta>296</orbitalTheta>
+                <orbitalPhi>-15</orbitalPhi>
+                <avgTemperature>209</avgTemperature>
+                <rotationalPeriod>54672</rotationalPeriod>
+                <atmosphereDensity>26</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:meadow,minecraft:mutated_mesa_rock,minecraft:plains,traverse:birch_forested_hills,traverse:rocky_plateau</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="157" name="Sol-157">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>217</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>195</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>121</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="160" name="Sol-157: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.6201345,1.0</skyColor>
+                <gravitationalMultiplier>50</gravitationalMultiplier>
+                <orbitalDistance>170</orbitalDistance>
+                <orbitalTheta>246</orbitalTheta>
+                <orbitalPhi>-282</orbitalPhi>
+                <avgTemperature>196</avgTemperature>
+                <rotationalPeriod>192000</rotationalPeriod>
+                <atmosphereDensity>30</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:marsh,minecraft:stone_beach,minecraft:beaches,minecraft:savanna,minecraft:smaller_extreme_hills</biomeIds>
+            </planet>
+            <planet DIMID="161" name="Sol-157: 3">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.51717055,0.9541196</skyColor>
+                <gravitationalMultiplier>82</gravitationalMultiplier>
+                <orbitalDistance>143</orbitalDistance>
+                <orbitalTheta>213</orbitalTheta>
+                <orbitalPhi>-406</orbitalPhi>
+                <avgTemperature>213</avgTemperature>
+                <rotationalPeriod>43528</rotationalPeriod>
+                <atmosphereDensity>15</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="162" name="Sol-157: 4">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7203553,0.86191106</skyColor>
+                <gravitationalMultiplier>70</gravitationalMultiplier>
+                <orbitalDistance>116</orbitalDistance>
+                <orbitalTheta>193</orbitalTheta>
+                <orbitalPhi>-216</orbitalPhi>
+                <avgTemperature>237</avgTemperature>
+                <rotationalPeriod>69970</rotationalPeriod>
+                <atmosphereDensity>19</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
@@ -93,238 +239,53 @@
                 <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
                 <oceanBlock>advancedrocketry:oxygenfluid</oceanBlock>
             </planet>
-            <planet DIMID="153" name="Sol-151: 1">
+            <planet DIMID="163" name="Sol-157: 5">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5223832,1.0</skyColor>
-                <gravitationalMultiplier>31</gravitationalMultiplier>
-                <orbitalDistance>183</orbitalDistance>
-                <orbitalTheta>164</orbitalTheta>
-                <orbitalPhi>-71</orbitalPhi>
-                <avgTemperature>189</avgTemperature>
-                <rotationalPeriod>805612</rotationalPeriod>
-                <atmosphereDensity>22</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="154" name="Sol-151: 2">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.718531,1.0</skyColor>
-                <gravitationalMultiplier>63</gravitationalMultiplier>
-                <orbitalDistance>192</orbitalDistance>
-                <orbitalTheta>238</orbitalTheta>
-                <orbitalPhi>-159</orbitalPhi>
-                <avgTemperature>184</avgTemperature>
-                <rotationalPeriod>95981</rotationalPeriod>
+                <skyColor>0.8,0.50419116,0.7649244</skyColor>
+                <gravitationalMultiplier>66</gravitationalMultiplier>
+                <orbitalDistance>101</orbitalDistance>
+                <orbitalTheta>275</orbitalTheta>
+                <orbitalPhi>72</orbitalPhi>
+                <avgTemperature>254</avgTemperature>
+                <rotationalPeriod>83479</rotationalPeriod>
                 <atmosphereDensity>26</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>traverse:mini_jungle,advancedrocketry:stormland,advancedrocketry:deepswamp,traverse:autumnal_woods,advancedrocketry:oceanspires</biomeIds>
+                <biomeIds>traverse:forested_hills,minecraft:mutated_roofed_forest,minecraft:mutated_birch_forest_hills,traverse:woodlands,traverse:canyon</biomeIds>
             </planet>
-            <planet DIMID="155" name="Sol-151: 3">
+            <planet DIMID="164" name="Sol-157: 6">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.69962096,0.9962358</skyColor>
-                <gravitationalMultiplier>41</gravitationalMultiplier>
-                <orbitalDistance>191</orbitalDistance>
-                <orbitalTheta>43</orbitalTheta>
-                <orbitalPhi>-212</orbitalPhi>
-                <avgTemperature>185</avgTemperature>
-                <rotationalPeriod>348224</rotationalPeriod>
+                <skyColor>0.8,0.934286,0.8841511</skyColor>
+                <gravitationalMultiplier>83</gravitationalMultiplier>
+                <orbitalDistance>112</orbitalDistance>
+                <orbitalTheta>212</orbitalTheta>
+                <orbitalPhi>-222</orbitalPhi>
+                <avgTemperature>241</avgTemperature>
+                <rotationalPeriod>41973</rotationalPeriod>
+                <atmosphereDensity>34</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:temperate_rainforest,minecraft:mutated_desert,advancedrocketry:oceanspires,minecraft:birch_forest,traverse:green_swamp</biomeIds>
+            </planet>
+            <planet DIMID="158" name="Sol-157: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.5752751,0.963528</skyColor>
+                <gravitationalMultiplier>65</gravitationalMultiplier>
+                <orbitalDistance>162</orbitalDistance>
+                <orbitalTheta>149</orbitalTheta>
+                <orbitalPhi>-105</orbitalPhi>
+                <avgTemperature>201</avgTemperature>
+                <rotationalPeriod>87391</rotationalPeriod>
                 <atmosphereDensity>17</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="156" name="Sol-151: 4">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.6055271,1.0</skyColor>
-                <gravitationalMultiplier>35</gravitationalMultiplier>
-                <orbitalDistance>187</orbitalDistance>
-                <orbitalTheta>95</orbitalTheta>
-                <orbitalPhi>78</orbitalPhi>
-                <avgTemperature>187</avgTemperature>
-                <rotationalPeriod>559766</rotationalPeriod>
-                <atmosphereDensity>21</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="157" name="Sol-151: 5">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.72006845,0.9472593</skyColor>
-                <gravitationalMultiplier>54</gravitationalMultiplier>
-                <orbitalDistance>145</orbitalDistance>
-                <orbitalTheta>189</orbitalTheta>
-                <orbitalPhi>144</orbitalPhi>
-                <avgTemperature>212</avgTemperature>
-                <rotationalPeriod>152415</rotationalPeriod>
-                <atmosphereDensity>18</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>47</seaLevel>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="158" name="Sol-151: 6">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.90669274,1.0</skyColor>
-                <gravitationalMultiplier>32</gravitationalMultiplier>
-                <orbitalDistance>191</orbitalDistance>
-                <orbitalTheta>58</orbitalTheta>
-                <orbitalPhi>-70</orbitalPhi>
-                <avgTemperature>185</avgTemperature>
-                <rotationalPeriod>732421</rotationalPeriod>
-                <atmosphereDensity>30</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:savanna_rock,minecraft:mutated_roofed_forest,minecraft:beaches,minecraft:mutated_redwood_taiga,advancedrocketry:deepswamp</biomeIds>
-            </planet>
-        </planet>
-        <planet DIMID="159" name="Sol-159">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>hydrogen</gas>
-            <gas>nitrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>117</gravitationalMultiplier>
-            <orbitalDistance>256</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>179</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>176</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="160" name="Sol-159: 0">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.6414769,1.0</skyColor>
-                <gravitationalMultiplier>68</gravitationalMultiplier>
-                <orbitalDistance>173</orbitalDistance>
-                <orbitalTheta>325</orbitalTheta>
-                <orbitalPhi>-151</orbitalPhi>
-                <avgTemperature>194</avgTemperature>
-                <rotationalPeriod>76328</rotationalPeriod>
-                <atmosphereDensity>36</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>traverse:canyon,minecraft:swampland,minecraft:mutated_mesa_clear_rock,minecraft:plains,traverse:rocky_plains</biomeIds>
-            </planet>
-            <planet DIMID="161" name="Sol-159: 1">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.55088174,0.9800662</skyColor>
-                <gravitationalMultiplier>39</gravitationalMultiplier>
-                <orbitalDistance>187</orbitalDistance>
-                <orbitalTheta>214</orbitalTheta>
-                <orbitalPhi>-154</orbitalPhi>
-                <avgTemperature>187</avgTemperature>
-                <rotationalPeriod>404592</rotationalPeriod>
-                <atmosphereDensity>36</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:stormland,minecraft:birch_forest,minecraft:mutated_birch_forest,minecraft:mutated_forest,advancedrocketry:alien forest</biomeIds>
-            </planet>
-        </planet>
-        <planet DIMID="162" name="Sol-162">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>hydrogen</gas>
-            <gas>nitrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>253</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>180</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>163</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="163" name="Sol-162: 0">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.8188242,0.9439558</skyColor>
-                <gravitationalMultiplier>44</gravitationalMultiplier>
-                <orbitalDistance>143</orbitalDistance>
-                <orbitalTheta>301</orbitalTheta>
-                <orbitalPhi>-132</orbitalPhi>
-                <avgTemperature>213</avgTemperature>
-                <rotationalPeriod>281743</rotationalPeriod>
-                <atmosphereDensity>16</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="164" name="Sol-162: 1">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.74262923,0.9385806</skyColor>
-                <gravitationalMultiplier>51</gravitationalMultiplier>
-                <orbitalDistance>160</orbitalDistance>
-                <orbitalTheta>340</orbitalTheta>
-                <orbitalPhi>243</orbitalPhi>
-                <avgTemperature>202</avgTemperature>
-                <rotationalPeriod>180925</rotationalPeriod>
-                <atmosphereDensity>24</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="165" name="Sol-162: 2">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.68105364,0.99657553</skyColor>
-                <gravitationalMultiplier>74</gravitationalMultiplier>
-                <orbitalDistance>179</orbitalDistance>
-                <orbitalTheta>228</orbitalTheta>
-                <orbitalPhi>-70</orbitalPhi>
-                <avgTemperature>191</avgTemperature>
-                <rotationalPeriod>59226</rotationalPeriod>
-                <atmosphereDensity>14</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
@@ -334,78 +295,24 @@
                 <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
                 <oceanBlock>advancedrocketry:oxygenfluid</oceanBlock>
             </planet>
-            <planet DIMID="166" name="Sol-162: 3">
+            <planet DIMID="159" name="Sol-157: 1">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.63871247,1.0</skyColor>
-                <gravitationalMultiplier>79</gravitationalMultiplier>
-                <orbitalDistance>187</orbitalDistance>
-                <orbitalTheta>164</orbitalTheta>
-                <orbitalPhi>135</orbitalPhi>
-                <avgTemperature>187</avgTemperature>
-                <rotationalPeriod>48677</rotationalPeriod>
-                <atmosphereDensity>19</atmosphereDensity>
+                <skyColor>0.8,0.8970031,0.9780721</skyColor>
+                <gravitationalMultiplier>41</gravitationalMultiplier>
+                <orbitalDistance>170</orbitalDistance>
+                <orbitalTheta>31</orbitalTheta>
+                <orbitalPhi>-346</orbitalPhi>
+                <avgTemperature>196</avgTemperature>
+                <rotationalPeriod>348224</rotationalPeriod>
+                <atmosphereDensity>22</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>79</seaLevel>
+                <seaLevel>57</seaLevel>
                 <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="167" name="Sol-162: 4">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5752047,0.9412755</skyColor>
-                <gravitationalMultiplier>64</gravitationalMultiplier>
-                <orbitalDistance>153</orbitalDistance>
-                <orbitalTheta>106</orbitalTheta>
-                <orbitalPhi>-533</orbitalPhi>
-                <avgTemperature>206</avgTemperature>
-                <rotationalPeriod>91552</rotationalPeriod>
-                <atmosphereDensity>25</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="168" name="Sol-162: 5">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.7043766,0.95956326</skyColor>
-                <gravitationalMultiplier>76</gravitationalMultiplier>
-                <orbitalDistance>149</orbitalDistance>
-                <orbitalTheta>140</orbitalTheta>
-                <orbitalPhi>-104</orbitalPhi>
-                <avgTemperature>209</avgTemperature>
-                <rotationalPeriod>54672</rotationalPeriod>
-                <atmosphereDensity>24</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="169" name="Sol-162: 6">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.82678086,0.92323875</skyColor>
-                <gravitationalMultiplier>40</gravitationalMultiplier>
-                <orbitalDistance>131</orbitalDistance>
-                <orbitalTheta>269</orbitalTheta>
-                <orbitalPhi>-275</orbitalPhi>
-                <avgTemperature>223</avgTemperature>
-                <rotationalPeriod>375000</rotationalPeriod>
-                <atmosphereDensity>36</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:marsh,minecraft:mutated_birch_forest_hills,minecraft:extreme_hills,minecraft:mutated_mesa_clear_rock,minecraft:mesa_clear_rock</biomeIds>
             </planet>
         </planet>
         <planet DIMID="100" customIcon="earthlike" dimMapping="" name="Nova">
@@ -424,109 +331,146 @@
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
         </planet>
-        <planet DIMID="170" name="Sol-170">
+        <planet DIMID="165" name="Sol-165">
             <isKnown>false</isKnown>
             <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
             <gas>hydrogen</gas>
             <gas>nitrogen</gas>
+            <gas>oxygen</gas>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>101</gravitationalMultiplier>
-            <orbitalDistance>198</orbitalDistance>
+            <gravitationalMultiplier>114</gravitationalMultiplier>
+            <orbitalDistance>226</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>204</avgTemperature>
+            <avgTemperature>191</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>163</atmosphereDensity>
+            <atmosphereDensity>134</atmosphereDensity>
             <generateCraters>false</generateCraters>
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <planet DIMID="171" name="Sol-170: 0">
+            <planet DIMID="166" name="Sol-165: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.7029129,0.806273</skyColor>
-                <gravitationalMultiplier>58</gravitationalMultiplier>
-                <orbitalDistance>99</orbitalDistance>
-                <orbitalTheta>4</orbitalTheta>
-                <orbitalPhi>-443</orbitalPhi>
-                <avgTemperature>257</avgTemperature>
-                <rotationalPeriod>123006</rotationalPeriod>
+                <skyColor>0.8,0.6526531,0.9952233</skyColor>
+                <gravitationalMultiplier>68</gravitationalMultiplier>
+                <orbitalDistance>153</orbitalDistance>
+                <orbitalTheta>296</orbitalTheta>
+                <orbitalPhi>60</orbitalPhi>
+                <avgTemperature>206</avgTemperature>
+                <rotationalPeriod>76328</rotationalPeriod>
+                <atmosphereDensity>21</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="167" name="Sol-165: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.77981645,1.0</skyColor>
+                <gravitationalMultiplier>66</gravitationalMultiplier>
+                <orbitalDistance>197</orbitalDistance>
+                <orbitalTheta>205</orbitalTheta>
+                <orbitalPhi>-49</orbitalPhi>
+                <avgTemperature>182</avgTemperature>
+                <rotationalPeriod>83479</rotationalPeriod>
+                <atmosphereDensity>24</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <seaLevel>57</seaLevel>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="168" name="Sol-165: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7479565,0.90840876</skyColor>
+                <gravitationalMultiplier>78</gravitationalMultiplier>
+                <orbitalDistance>147</orbitalDistance>
+                <orbitalTheta>348</orbitalTheta>
+                <orbitalPhi>18</orbitalPhi>
+                <avgTemperature>211</avgTemperature>
+                <rotationalPeriod>50574</rotationalPeriod>
+                <atmosphereDensity>18</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="169" name="Sol-165: 3">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7354145,0.8959348</skyColor>
+                <gravitationalMultiplier>80</gravitationalMultiplier>
+                <orbitalDistance>121</orbitalDistance>
+                <orbitalTheta>6</orbitalTheta>
+                <orbitalPhi>-189</orbitalPhi>
+                <avgTemperature>232</avgTemperature>
+                <rotationalPeriod>46875</rotationalPeriod>
                 <atmosphereDensity>33</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:ice_mountains,minecraft:mesa_rock,minecraft:smaller_extreme_hills,advancedrocketry:oceanspires,minecraft:deep_ocean</biomeIds>
+                <biomeIds>minecraft:mushroom_island_shore,thaumcraft:magical_forest,minecraft:birch_forest,minecraft:ocean,traverse:green_swamp</biomeIds>
             </planet>
-            <planet DIMID="172" name="Sol-170: 1">
+            <planet DIMID="170" name="Sol-165: 4">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.50977325,0.96762043</skyColor>
-                <gravitationalMultiplier>74</gravitationalMultiplier>
-                <orbitalDistance>153</orbitalDistance>
-                <orbitalTheta>127</orbitalTheta>
-                <orbitalPhi>-449</orbitalPhi>
-                <avgTemperature>206</avgTemperature>
-                <rotationalPeriod>59226</rotationalPeriod>
-                <atmosphereDensity>30</atmosphereDensity>
+                <skyColor>0.8,0.6005179,0.9636681</skyColor>
+                <gravitationalMultiplier>33</gravitationalMultiplier>
+                <orbitalDistance>167</orbitalDistance>
+                <orbitalTheta>172</orbitalTheta>
+                <orbitalPhi>134</orbitalPhi>
+                <avgTemperature>197</avgTemperature>
+                <rotationalPeriod>667835</rotationalPeriod>
+                <atmosphereDensity>29</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:ocean,traverse:rocky_plateau,minecraft:mesa_clear_rock,minecraft:desert,minecraft:mutated_birch_forest</biomeIds>
-            </planet>
-            <planet DIMID="173" name="Sol-170: 2">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.9039382,0.9353659</skyColor>
-                <gravitationalMultiplier>72</gravitationalMultiplier>
-                <orbitalDistance>139</orbitalDistance>
-                <orbitalTheta>169</orbitalTheta>
-                <orbitalPhi>-237</orbitalPhi>
-                <avgTemperature>217</avgTemperature>
-                <rotationalPeriod>64300</rotationalPeriod>
-                <atmosphereDensity>26</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:forest_hills,traverse:thicket,traverse:mountainous_desert,minecraft:mutated_swampland,thaumcraft:eerie</biomeIds>
+                <biomeIds>minecraft:mutated_extreme_hills,minecraft:mutated_roofed_forest,minecraft:extreme_hills,minecraft:savanna_rock,traverse:rocky_plains</biomeIds>
             </planet>
         </planet>
-        <planet DIMID="174" name="Sol-174">
+        <planet DIMID="171" name="Sol-171">
             <isKnown>false</isKnown>
             <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
             <gas>hydrogen</gas>
             <gas>nitrogen</gas>
+            <gas>oxygen</gas>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
             <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>220</orbitalDistance>
+            <orbitalDistance>242</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>194</avgTemperature>
+            <avgTemperature>185</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>148</atmosphereDensity>
+            <atmosphereDensity>131</atmosphereDensity>
             <generateCraters>false</generateCraters>
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <planet DIMID="175" name="Sol-174: 0">
+            <planet DIMID="176" name="Sol-171: 4">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.94725955,0.99694526</skyColor>
-                <gravitationalMultiplier>89</gravitationalMultiplier>
-                <orbitalDistance>183</orbitalDistance>
-                <orbitalTheta>171</orbitalTheta>
-                <orbitalPhi>94</orbitalPhi>
-                <avgTemperature>189</avgTemperature>
-                <rotationalPeriod>34044</rotationalPeriod>
+                <skyColor>0.8,0.62537795,0.96461177</skyColor>
+                <gravitationalMultiplier>48</gravitationalMultiplier>
+                <orbitalDistance>143</orbitalDistance>
+                <orbitalTheta>136</orbitalTheta>
+                <orbitalPhi>-124</orbitalPhi>
+                <avgTemperature>213</avgTemperature>
+                <rotationalPeriod>217013</rotationalPeriod>
                 <atmosphereDensity>20</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
@@ -535,124 +479,141 @@
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
                 <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
             </planet>
-        </planet>
-    </star>
-    <star blackHole="false" name="Stellaria" numGasGiants="0" numPlanets="0" size="1.0" temp="105" x="5" y="7">
-        <planet DIMID="175" name="Sol-175">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>nitrogen</gas>
-            <gas>hydrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>250</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>191</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>126</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="176" name="Sol-176">
+            <planet DIMID="177" name="Sol-171: 5">
                 <isKnown>false</isKnown>
-                <GasGiant>true</GasGiant>
-                <gas>oxygen</gas>
-                <gas>hydrogen</gas>
-                <gas>nitrogen</gas>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>1.0,1.0,1.0</skyColor>
-                <gravitationalMultiplier>113</gravitationalMultiplier>
-                <orbitalDistance>265</orbitalDistance>
-                <orbitalTheta>0</orbitalTheta>
-                <orbitalPhi>0</orbitalPhi>
+                <skyColor>0.8,0.6446962,1.0</skyColor>
+                <gravitationalMultiplier>84</gravitationalMultiplier>
+                <orbitalDistance>191</orbitalDistance>
+                <orbitalTheta>111</orbitalTheta>
+                <orbitalPhi>-140</orbitalPhi>
                 <avgTemperature>185</avgTemperature>
-                <rotationalPeriod>24000</rotationalPeriod>
-                <atmosphereDensity>112</atmosphereDensity>
-                <generateCraters>false</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-            </planet>
-            <planet DIMID="177" name="Sol-177">
-                <isKnown>false</isKnown>
-                <GasGiant>true</GasGiant>
-                <gas>oxygen</gas>
-                <gas>hydrogen</gas>
-                <gas>nitrogen</gas>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>1.0,1.0,1.0</skyColor>
-                <gravitationalMultiplier>102</gravitationalMultiplier>
-                <orbitalDistance>225</orbitalDistance>
-                <orbitalTheta>0</orbitalTheta>
-                <orbitalPhi>0</orbitalPhi>
-                <avgTemperature>201</avgTemperature>
-                <rotationalPeriod>24000</rotationalPeriod>
-                <atmosphereDensity>132</atmosphereDensity>
-                <generateCraters>false</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <planet DIMID="178" name="Sol-177: 0">
-                    <isKnown>false</isKnown>
-                    <fogColor>1.0,1.0,1.0</fogColor>
-                    <skyColor>0.8,0.9714459,0.95729965</skyColor>
-                    <gravitationalMultiplier>67</gravitationalMultiplier>
-                    <orbitalDistance>188</orbitalDistance>
-                    <orbitalTheta>235</orbitalTheta>
-                    <orbitalPhi>166</orbitalPhi>
-                    <avgTemperature>195</avgTemperature>
-                    <rotationalPeriod>79797</rotationalPeriod>
-                    <atmosphereDensity>29</atmosphereDensity>
-                    <generateCraters>true</generateCraters>
-                    <generateVolcanos>false</generateVolcanos>
-                    <generateStructures>false</generateStructures>
-                    <generateGeodes>false</generateGeodes>
-                    <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                    <biomeIds>minecraft:mutated_roofed_forest,minecraft:mutated_birch_forest,traverse:green_swamp,minecraft:mutated_extreme_hills,traverse:desert_shrubland</biomeIds>
-                </planet>
-                <planet DIMID="179" name="Sol-177: 1">
-                    <isKnown>false</isKnown>
-                    <fogColor>1.0,1.0,1.0</fogColor>
-                    <skyColor>0.8,0.6936575,0.84918517</skyColor>
-                    <gravitationalMultiplier>28</gravitationalMultiplier>
-                    <orbitalDistance>109</orbitalDistance>
-                    <orbitalTheta>10</orbitalTheta>
-                    <orbitalPhi>79</orbitalPhi>
-                    <avgTemperature>257</avgTemperature>
-                    <rotationalPeriod>1093294</rotationalPeriod>
-                    <atmosphereDensity>20</atmosphereDensity>
-                    <generateCraters>true</generateCraters>
-                    <generateVolcanos>false</generateVolcanos>
-                    <generateStructures>false</generateStructures>
-                    <generateGeodes>false</generateGeodes>
-                    <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                    <seaLevel>67</seaLevel>
-                    <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-                </planet>
-            </planet>
-            <planet DIMID="178" name="Sol-177: 0">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.9714459,0.95729965</skyColor>
-                <gravitationalMultiplier>67</gravitationalMultiplier>
-                <orbitalDistance>188</orbitalDistance>
-                <orbitalTheta>235</orbitalTheta>
-                <orbitalPhi>166</orbitalPhi>
-                <avgTemperature>195</avgTemperature>
-                <rotationalPeriod>79797</rotationalPeriod>
-                <atmosphereDensity>29</atmosphereDensity>
+                <rotationalPeriod>40492</rotationalPeriod>
+                <atmosphereDensity>35</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:mutated_roofed_forest,minecraft:mutated_birch_forest,traverse:green_swamp,minecraft:mutated_extreme_hills,traverse:desert_shrubland</biomeIds>
+                <biomeIds>minecraft:mesa_clear_rock,minecraft:forest_hills,randomthings:spectral,traverse:meadow,traverse:autumnal_wooded_hills</biomeIds>
+            </planet>
+            <planet DIMID="172" name="Sol-171: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7585361,1.0</skyColor>
+                <gravitationalMultiplier>56</gravitationalMultiplier>
+                <orbitalDistance>179</orbitalDistance>
+                <orbitalTheta>89</orbitalTheta>
+                <orbitalPhi>-173</orbitalPhi>
+                <avgTemperature>191</avgTemperature>
+                <rotationalPeriod>136661</rotationalPeriod>
+                <atmosphereDensity>22</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="173" name="Sol-171: 1">
+                <isKnown>false</isKnown>
+                <hasRings>true</hasRings>
+                <ringColor>0.8,0.8162286,0.88354105</ringColor>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.8162286,0.88354105</skyColor>
+                <gravitationalMultiplier>76</gravitationalMultiplier>
+                <orbitalDistance>126</orbitalDistance>
+                <orbitalTheta>119</orbitalTheta>
+                <orbitalPhi>66</orbitalPhi>
+                <avgTemperature>227</avgTemperature>
+                <rotationalPeriod>54672</rotationalPeriod>
+                <atmosphereDensity>37</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:thicket,minecraft:mutated_plains,minecraft:mesa_clear_rock,minecraft:forest,minecraft:extreme_hills</biomeIds>
+            </planet>
+            <planet DIMID="174" name="Sol-171: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.81124413,1.0</skyColor>
+                <gravitationalMultiplier>65</gravitationalMultiplier>
+                <orbitalDistance>187</orbitalDistance>
+                <orbitalTheta>92</orbitalTheta>
+                <orbitalPhi>44</orbitalPhi>
+                <avgTemperature>187</avgTemperature>
+                <rotationalPeriod>87391</rotationalPeriod>
+                <atmosphereDensity>23</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="175" name="Sol-171: 3">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.8309046,1.0</skyColor>
+                <gravitationalMultiplier>67</gravitationalMultiplier>
+                <orbitalDistance>194</orbitalDistance>
+                <orbitalTheta>196</orbitalTheta>
+                <orbitalPhi>-363</orbitalPhi>
+                <avgTemperature>183</avgTemperature>
+                <rotationalPeriod>79797</rotationalPeriod>
+                <atmosphereDensity>33</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>minecraft:mutated_roofed_forest,minecraft:mutated_swampland,minecraft:mutated_mesa_clear_rock,minecraft:desert_hills,minecraft:mutated_plains</biomeIds>
             </planet>
         </planet>
+        <planet DIMID="178" name="Sol-178">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>97</gravitationalMultiplier>
+            <orbitalDistance>183</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>212</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>153</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+        <planet DIMID="179" name="Sol-179">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>93</gravitationalMultiplier>
+            <orbitalDistance>237</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>186</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>109</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+    </star>
+    <star blackHole="false" name="Stellaria" numGasGiants="0" numPlanets="0" size="1.0" temp="105" x="5" y="7">
         <planet DIMID="176" name="Sol-176">
             <isKnown>false</isKnown>
             <GasGiant>true</GasGiant>
@@ -692,42 +653,45 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <planet DIMID="178" name="Sol-177: 0">
+            <planet DIMID="178" name="Sol-178">
                 <isKnown>false</isKnown>
+                <GasGiant>true</GasGiant>
+                <gas>hydrogen</gas>
+                <gas>nitrogen</gas>
+                <gas>oxygen</gas>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.9714459,0.95729965</skyColor>
-                <gravitationalMultiplier>67</gravitationalMultiplier>
-                <orbitalDistance>188</orbitalDistance>
-                <orbitalTheta>235</orbitalTheta>
-                <orbitalPhi>166</orbitalPhi>
-                <avgTemperature>195</avgTemperature>
-                <rotationalPeriod>79797</rotationalPeriod>
-                <atmosphereDensity>29</atmosphereDensity>
-                <generateCraters>true</generateCraters>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>97</gravitationalMultiplier>
+                <orbitalDistance>183</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <avgTemperature>212</avgTemperature>
+                <rotationalPeriod>24000</rotationalPeriod>
+                <atmosphereDensity>153</atmosphereDensity>
+                <generateCraters>false</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:mutated_roofed_forest,minecraft:mutated_birch_forest,traverse:green_swamp,minecraft:mutated_extreme_hills,traverse:desert_shrubland</biomeIds>
             </planet>
-            <planet DIMID="179" name="Sol-177: 1">
+            <planet DIMID="179" name="Sol-179">
                 <isKnown>false</isKnown>
+                <GasGiant>true</GasGiant>
+                <gas>hydrogen</gas>
+                <gas>nitrogen</gas>
+                <gas>oxygen</gas>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.6936575,0.84918517</skyColor>
-                <gravitationalMultiplier>28</gravitationalMultiplier>
-                <orbitalDistance>109</orbitalDistance>
-                <orbitalTheta>10</orbitalTheta>
-                <orbitalPhi>79</orbitalPhi>
-                <avgTemperature>257</avgTemperature>
-                <rotationalPeriod>1093294</rotationalPeriod>
-                <atmosphereDensity>20</atmosphereDensity>
-                <generateCraters>true</generateCraters>
+                <skyColor>1.0,1.0,1.0</skyColor>
+                <gravitationalMultiplier>93</gravitationalMultiplier>
+                <orbitalDistance>237</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <avgTemperature>186</avgTemperature>
+                <rotationalPeriod>24000</rotationalPeriod>
+                <atmosphereDensity>109</atmosphereDensity>
+                <generateCraters>false</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>67</seaLevel>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
             </planet>
         </planet>
         <planet DIMID="146" name="Euclydes Prime">
@@ -753,18 +717,18 @@
         <planet DIMID="180" name="Sol-180">
             <isKnown>false</isKnown>
             <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
             <gas>hydrogen</gas>
             <gas>nitrogen</gas>
+            <gas>oxygen</gas>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>212</orbitalDistance>
+            <gravitationalMultiplier>125</gravitationalMultiplier>
+            <orbitalDistance>201</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>207</avgTemperature>
+            <avgTemperature>213</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>124</atmosphereDensity>
+            <atmosphereDensity>175</atmosphereDensity>
             <generateCraters>false</generateCraters>
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
@@ -772,145 +736,51 @@
             <planet DIMID="181" name="Sol-180: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.97220826,0.848452</skyColor>
-                <gravitationalMultiplier>48</gravitationalMultiplier>
-                <orbitalDistance>127</orbitalDistance>
-                <orbitalTheta>254</orbitalTheta>
-                <orbitalPhi>153</orbitalPhi>
-                <avgTemperature>238</avgTemperature>
-                <rotationalPeriod>217013</rotationalPeriod>
-                <atmosphereDensity>23</atmosphereDensity>
+                <skyColor>0.8,0.68636155,1.0</skyColor>
+                <gravitationalMultiplier>79</gravitationalMultiplier>
+                <orbitalDistance>195</orbitalDistance>
+                <orbitalTheta>221</orbitalTheta>
+                <orbitalPhi>108</orbitalPhi>
+                <avgTemperature>192</avgTemperature>
+                <rotationalPeriod>48677</rotationalPeriod>
+                <atmosphereDensity>37</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <biomeIds>minecraft:mutated_extreme_hills_with_trees,traverse:autumnal_woods,minecraft:birch_forest_hills,traverse:birch_forested_hills,thaumcraft:eerie</biomeIds>
             </planet>
-        </planet>
-        <planet DIMID="182" name="Sol-182">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>hydrogen</gas>
-            <gas>nitrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>263</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>186</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>188</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="183" name="Sol-182: 0">
+            <planet DIMID="182" name="Sol-180: 1">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.88508904,0.8205637</skyColor>
-                <gravitationalMultiplier>60</gravitationalMultiplier>
-                <orbitalDistance>107</orbitalDistance>
-                <orbitalTheta>170</orbitalTheta>
-                <orbitalPhi>202</orbitalPhi>
-                <avgTemperature>259</avgTemperature>
-                <rotationalPeriod>111111</rotationalPeriod>
-                <atmosphereDensity>28</atmosphereDensity>
+                <skyColor>0.8,0.7873671,0.78245413</skyColor>
+                <gravitationalMultiplier>58</gravitationalMultiplier>
+                <orbitalDistance>119</orbitalDistance>
+                <orbitalTheta>108</orbitalTheta>
+                <orbitalPhi>51</orbitalPhi>
+                <avgTemperature>246</avgTemperature>
+                <rotationalPeriod>116857</rotationalPeriod>
+                <atmosphereDensity>22</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:mesa_rock,minecraft:taiga_cold,thaumcraft:magical_forest,minecraft:mushroom_island,iceandfire:glacier</biomeIds>
-            </planet>
-            <planet DIMID="184" name="Sol-182: 1">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.596609,0.95245004</skyColor>
-                <gravitationalMultiplier>81</gravitationalMultiplier>
-                <orbitalDistance>176</orbitalDistance>
-                <orbitalTheta>145</orbitalTheta>
-                <orbitalPhi>-67</orbitalPhi>
-                <avgTemperature>202</avgTemperature>
-                <rotationalPeriod>45160</rotationalPeriod>
-                <atmosphereDensity>25</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>76</seaLevel>
+                <seaLevel>72</seaLevel>
                 <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
                 <oceanBlock>advancedrocketry:oxygenfluid</oceanBlock>
             </planet>
-            <planet DIMID="185" name="Sol-182: 2">
+            <planet DIMID="183" name="Sol-180: 2">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5922322,0.8174315</skyColor>
-                <gravitationalMultiplier>54</gravitationalMultiplier>
-                <orbitalDistance>127</orbitalDistance>
-                <orbitalTheta>171</orbitalTheta>
-                <orbitalPhi>-172</orbitalPhi>
-                <avgTemperature>238</avgTemperature>
-                <rotationalPeriod>152415</rotationalPeriod>
-                <atmosphereDensity>25</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="186" name="Sol-182: 3">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.55851567,1.0</skyColor>
-                <gravitationalMultiplier>49</gravitationalMultiplier>
-                <orbitalDistance>192</orbitalDistance>
-                <orbitalTheta>233</orbitalTheta>
-                <orbitalPhi>-178</orbitalPhi>
-                <avgTemperature>193</avgTemperature>
-                <rotationalPeriod>203996</rotationalPeriod>
-                <atmosphereDensity>18</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="187" name="Sol-182: 4">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.53996146,0.89177173</skyColor>
-                <gravitationalMultiplier>42</gravitationalMultiplier>
-                <orbitalDistance>155</orbitalDistance>
-                <orbitalTheta>145</orbitalTheta>
-                <orbitalPhi>-88</orbitalPhi>
-                <avgTemperature>215</avgTemperature>
-                <rotationalPeriod>323939</rotationalPeriod>
-                <atmosphereDensity>25</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>75</seaLevel>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-                <oceanBlock>advancedrocketry:oxygenfluid</oceanBlock>
-            </planet>
-            <planet DIMID="188" name="Sol-182: 5">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5568695,1.0</skyColor>
-                <gravitationalMultiplier>49</gravitationalMultiplier>
-                <orbitalDistance>196</orbitalDistance>
-                <orbitalTheta>201</orbitalTheta>
-                <orbitalPhi>349</orbitalPhi>
-                <avgTemperature>191</avgTemperature>
-                <rotationalPeriod>203996</rotationalPeriod>
+                <skyColor>0.8,0.6081284,0.98711103</skyColor>
+                <gravitationalMultiplier>57</gravitationalMultiplier>
+                <orbitalDistance>183</orbitalDistance>
+                <orbitalTheta>103</orbitalTheta>
+                <orbitalPhi>92</orbitalPhi>
+                <avgTemperature>198</avgTemperature>
+                <rotationalPeriod>129594</rotationalPeriod>
                 <atmosphereDensity>19</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
@@ -919,23 +789,230 @@
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
                 <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
             </planet>
-            <planet DIMID="189" name="Sol-182: 6">
+            <planet DIMID="184" name="Sol-180: 3">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.60185003,0.93960375</skyColor>
-                <gravitationalMultiplier>42</gravitationalMultiplier>
-                <orbitalDistance>155</orbitalDistance>
-                <orbitalTheta>184</orbitalTheta>
-                <orbitalPhi>38</orbitalPhi>
-                <avgTemperature>215</avgTemperature>
-                <rotationalPeriod>323939</rotationalPeriod>
-                <atmosphereDensity>32</atmosphereDensity>
+                <skyColor>0.8,0.77938867,0.91538215</skyColor>
+                <gravitationalMultiplier>84</gravitationalMultiplier>
+                <orbitalDistance>159</orbitalDistance>
+                <orbitalTheta>169</orbitalTheta>
+                <orbitalPhi>-269</orbitalPhi>
+                <avgTemperature>213</avgTemperature>
+                <rotationalPeriod>40492</rotationalPeriod>
+                <atmosphereDensity>15</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>randomthings:spectral,minecraft:mutated_extreme_hills_with_trees,traverse:canyon,advancedrocketry:oceanspires,traverse:autumnal_wooded_hills</biomeIds>
+                <seaLevel>77</seaLevel>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <oceanBlock>advancedrocketry:oxygenfluid</oceanBlock>
+            </planet>
+            <planet DIMID="185" name="Sol-180: 4">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.89448375,1.0</skyColor>
+                <gravitationalMultiplier>51</gravitationalMultiplier>
+                <orbitalDistance>183</orbitalDistance>
+                <orbitalTheta>239</orbitalTheta>
+                <orbitalPhi>224</orbitalPhi>
+                <avgTemperature>198</avgTemperature>
+                <rotationalPeriod>180925</rotationalPeriod>
+                <atmosphereDensity>27</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:red_desert,thaumcraft:eldritch,minecraft:jungle_edge,thaumcraft:magical_forest,minecraft:mutated_mesa_clear_rock</biomeIds>
+            </planet>
+            <planet DIMID="186" name="Sol-180: 5">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.9074813,0.72573555</skyColor>
+                <gravitationalMultiplier>47</gravitationalMultiplier>
+                <orbitalDistance>100</orbitalDistance>
+                <orbitalTheta>83</orbitalTheta>
+                <orbitalPhi>-165</orbitalPhi>
+                <avgTemperature>268</avgTemperature>
+                <rotationalPeriod>231162</rotationalPeriod>
+                <atmosphereDensity>35</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:meadow,traverse:green_swamp,minecraft:ice_flats,minecraft:mushroom_island,minecraft:ice_mountains</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="187" name="Sol-187">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>98</gravitationalMultiplier>
+            <orbitalDistance>215</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>206</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>132</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+        <planet DIMID="188" name="Sol-188">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>269</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>184</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>142</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="189" name="Sol-188: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.92184556,0.78066766</skyColor>
+                <gravitationalMultiplier>89</gravitationalMultiplier>
+                <orbitalDistance>104</orbitalDistance>
+                <orbitalTheta>68</orbitalTheta>
+                <orbitalPhi>-135</orbitalPhi>
+                <avgTemperature>263</avgTemperature>
+                <rotationalPeriod>34044</rotationalPeriod>
+                <atmosphereDensity>28</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:birch_forested_hills,minecraft:taiga_cold,randomthings:spectral,minecraft:ice_mountains,minecraft:forest_hills</biomeIds>
+            </planet>
+            <planet DIMID="190" name="Sol-188: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.6676868,0.9640187</skyColor>
+                <gravitationalMultiplier>43</gravitationalMultiplier>
+                <orbitalDistance>164</orbitalDistance>
+                <orbitalTheta>68</orbitalTheta>
+                <orbitalPhi>35</orbitalPhi>
+                <avgTemperature>209</avgTemperature>
+                <rotationalPeriod>301860</rotationalPeriod>
+                <atmosphereDensity>17</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="191" name="Sol-191">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>103</gravitationalMultiplier>
+            <orbitalDistance>183</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>223</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>185</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="192" name="Sol-191: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.6835282,1.0</skyColor>
+                <gravitationalMultiplier>43</gravitationalMultiplier>
+                <orbitalDistance>192</orbitalDistance>
+                <orbitalTheta>143</orbitalTheta>
+                <orbitalPhi>-358</orbitalPhi>
+                <avgTemperature>193</avgTemperature>
+                <rotationalPeriod>301860</rotationalPeriod>
+                <atmosphereDensity>26</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>traverse:mountainous_desert,traverse:thicket,thaumcraft:eerie,traverse:rocky_plains,traverse:autumnal_wooded_hills</biomeIds>
+            </planet>
+            <planet DIMID="193" name="Sol-191: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.5068046,1.0</skyColor>
+                <gravitationalMultiplier>28</gravitationalMultiplier>
+                <orbitalDistance>185</orbitalDistance>
+                <orbitalTheta>184</orbitalTheta>
+                <orbitalPhi>-353</orbitalPhi>
+                <avgTemperature>197</avgTemperature>
+                <rotationalPeriod>1093294</rotationalPeriod>
+                <atmosphereDensity>31</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>minecraft:jungle,minecraft:ocean,traverse:autumnal_woods,minecraft:mutated_savanna,traverse:birch_forested_hills</biomeIds>
+            </planet>
+            <planet DIMID="194" name="Sol-191: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.68259996,0.79689264</skyColor>
+                <gravitationalMultiplier>32</gravitationalMultiplier>
+                <orbitalDistance>105</orbitalDistance>
+                <orbitalTheta>275</orbitalTheta>
+                <orbitalPhi>53</orbitalPhi>
+                <avgTemperature>262</avgTemperature>
+                <rotationalPeriod>732421</rotationalPeriod>
+                <atmosphereDensity>19</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="195" name="Sol-191: 3">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.9700654,0.8610767</skyColor>
+                <gravitationalMultiplier>27</gravitationalMultiplier>
+                <orbitalDistance>121</orbitalDistance>
+                <orbitalTheta>189</orbitalTheta>
+                <orbitalPhi>-191</orbitalPhi>
+                <avgTemperature>244</avgTemperature>
+                <rotationalPeriod>1219326</rotationalPeriod>
+                <atmosphereDensity>26</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <seaLevel>43</seaLevel>
+                <biomeIds>traverse:rocky_plateau,traverse:rocky_plains,minecraft:mutated_jungle_edge,advancedrocketry:oceanspires,traverse:badlands</biomeIds>
             </planet>
         </planet>
     </star>
@@ -983,53 +1060,128 @@
         <planet DIMID="196" name="Sol-196">
             <isKnown>false</isKnown>
             <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
             <gas>hydrogen</gas>
             <gas>nitrogen</gas>
+            <gas>oxygen</gas>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>98</gravitationalMultiplier>
-            <orbitalDistance>258</orbitalDistance>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>250</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>424</avgTemperature>
+            <avgTemperature>431</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>123</atmosphereDensity>
+            <atmosphereDensity>112</atmosphereDensity>
             <generateCraters>false</generateCraters>
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-        </planet>
-        <planet DIMID="197" name="Sol-197">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>hydrogen</gas>
-            <gas>nitrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>128</gravitationalMultiplier>
-            <orbitalDistance>224</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>456</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>185</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="198" name="Sol-197: 0">
+            <planet DIMID="197" name="Sol-196: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.79789627,0.0</skyColor>
-                <gravitationalMultiplier>79</gravitationalMultiplier>
-                <orbitalDistance>120</orbitalDistance>
-                <orbitalTheta>99</orbitalTheta>
-                <orbitalPhi>-483</orbitalPhi>
-                <avgTemperature>553</avgTemperature>
-                <rotationalPeriod>48677</rotationalPeriod>
-                <atmosphereDensity>28</atmosphereDensity>
+                <skyColor>0.8,0.6831081,0.24831116</skyColor>
+                <gravitationalMultiplier>69</gravitationalMultiplier>
+                <orbitalDistance>195</orbitalDistance>
+                <orbitalTheta>16</orbitalTheta>
+                <orbitalPhi>-1</orbitalPhi>
+                <avgTemperature>434</avgTemperature>
+                <rotationalPeriod>73057</rotationalPeriod>
+                <atmosphereDensity>20</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="198" name="Sol-196: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.8641667,0.15896046</skyColor>
+                <gravitationalMultiplier>68</gravitationalMultiplier>
+                <orbitalDistance>182</orbitalDistance>
+                <orbitalTheta>220</orbitalTheta>
+                <orbitalPhi>-415</orbitalPhi>
+                <avgTemperature>449</avgTemperature>
+                <rotationalPeriod>76328</rotationalPeriod>
+                <atmosphereDensity>14</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="199" name="Sol-196: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.75464106,0.24629319</skyColor>
+                <gravitationalMultiplier>88</gravitationalMultiplier>
+                <orbitalDistance>197</orbitalDistance>
+                <orbitalTheta>213</orbitalTheta>
+                <orbitalPhi>-316</orbitalPhi>
+                <avgTemperature>432</avgTemperature>
+                <rotationalPeriod>35217</rotationalPeriod>
+                <atmosphereDensity>15</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="200" name="Sol-196: 3">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7254726,0.0</skyColor>
+                <gravitationalMultiplier>70</gravitationalMultiplier>
+                <orbitalDistance>143</orbitalDistance>
+                <orbitalTheta>131</orbitalTheta>
+                <orbitalPhi>-15</orbitalPhi>
+                <avgTemperature>507</avgTemperature>
+                <rotationalPeriod>69970</rotationalPeriod>
+                <atmosphereDensity>35</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>true</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
+                <seaLevel>43</seaLevel>
+                <biomeIds>advancedrocketry:hotdryrock,advancedrocketry:volcanic,advancedrocketry:volcanicbarren</biomeIds>
+                <oceanBlock>minecraft:lava</oceanBlock>
+            </planet>
+            <planet DIMID="201" name="Sol-196: 4">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.8904822,0.007087469</skyColor>
+                <gravitationalMultiplier>52</gravitationalMultiplier>
+                <orbitalDistance>142</orbitalDistance>
+                <orbitalTheta>191</orbitalTheta>
+                <orbitalPhi>-127</orbitalPhi>
+                <avgTemperature>509</avgTemperature>
+                <rotationalPeriod>170687</rotationalPeriod>
+                <atmosphereDensity>24</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>true</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <oceanBlock>minecraft:lava</oceanBlock>
+            </planet>
+            <planet DIMID="202" name="Sol-196: 5">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7403426,0.16852635</skyColor>
+                <gravitationalMultiplier>64</gravitationalMultiplier>
+                <orbitalDistance>181</orbitalDistance>
+                <orbitalTheta>254</orbitalTheta>
+                <orbitalPhi>-211</orbitalPhi>
+                <avgTemperature>451</avgTemperature>
+                <rotationalPeriod>91552</rotationalPeriod>
+                <atmosphereDensity>36</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>true</generateVolcanos>
                 <generateStructures>false</generateStructures>
@@ -1039,72 +1191,36 @@
                 <biomeIds>advancedrocketry:hotdryrock,advancedrocketry:volcanic,advancedrocketry:volcanicbarren</biomeIds>
                 <oceanBlock>minecraft:lava</oceanBlock>
             </planet>
-            <planet DIMID="199" name="Sol-197: 1">
+        </planet>
+        <planet DIMID="203" name="Sol-203">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>214</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>466</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>124</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="204" name="Sol-203: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5063031,0.18548536</skyColor>
-                <gravitationalMultiplier>39</gravitationalMultiplier>
-                <orbitalDistance>187</orbitalDistance>
-                <orbitalTheta>29</orbitalTheta>
-                <orbitalPhi>-136</orbitalPhi>
-                <avgTemperature>443</avgTemperature>
-                <rotationalPeriod>404592</rotationalPeriod>
-                <atmosphereDensity>20</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="200" name="Sol-197: 2">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.8780072,0.20099694</skyColor>
-                <gravitationalMultiplier>48</gravitationalMultiplier>
-                <orbitalDistance>183</orbitalDistance>
-                <orbitalTheta>288</orbitalTheta>
-                <orbitalPhi>-68</orbitalPhi>
-                <avgTemperature>448</avgTemperature>
-                <rotationalPeriod>217013</rotationalPeriod>
-                <atmosphereDensity>28</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:deepswamp,advancedrocketry:marsh,traverse:arid_highland,advancedrocketry:volcanicbarren,minecraft:mutated_savanna</biomeIds>
-            </planet>
-            <planet DIMID="201" name="Sol-197: 3">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.8021664,0.1438281</skyColor>
-                <gravitationalMultiplier>49</gravitationalMultiplier>
-                <orbitalDistance>180</orbitalDistance>
-                <orbitalTheta>244</orbitalTheta>
-                <orbitalPhi>-188</orbitalPhi>
-                <avgTemperature>452</avgTemperature>
-                <rotationalPeriod>203996</rotationalPeriod>
-                <atmosphereDensity>15</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>true</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-                <oceanBlock>minecraft:lava</oceanBlock>
-            </planet>
-            <planet DIMID="202" name="Sol-197: 4">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.77228206,0.09069574</skyColor>
-                <gravitationalMultiplier>44</gravitationalMultiplier>
-                <orbitalDistance>169</orbitalDistance>
-                <orbitalTheta>14</orbitalTheta>
-                <orbitalPhi>51</orbitalPhi>
-                <avgTemperature>466</avgTemperature>
-                <rotationalPeriod>281743</rotationalPeriod>
+                <skyColor>0.8,0.5426133,0.0</skyColor>
+                <gravitationalMultiplier>73</gravitationalMultiplier>
+                <orbitalDistance>134</orbitalDistance>
+                <orbitalTheta>270</orbitalTheta>
+                <orbitalPhi>220</orbitalPhi>
+                <avgTemperature>524</avgTemperature>
+                <rotationalPeriod>61693</rotationalPeriod>
                 <atmosphereDensity>21</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>true</generateVolcanos>
@@ -1115,17 +1231,135 @@
                 <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
                 <oceanBlock>minecraft:lava</oceanBlock>
             </planet>
-            <planet DIMID="203" name="Sol-197: 5">
+        </planet>
+        <planet DIMID="205" name="Sol-205">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>237</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>443</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>146</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+        <planet DIMID="206" name="Sol-206">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>228</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>452</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>141</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="207" name="Sol-206: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5470782,0.0</skyColor>
-                <gravitationalMultiplier>45</gravitationalMultiplier>
-                <orbitalDistance>100</orbitalDistance>
-                <orbitalTheta>329</orbitalTheta>
-                <orbitalPhi>112</orbitalPhi>
-                <avgTemperature>606</avgTemperature>
-                <rotationalPeriod>263374</rotationalPeriod>
-                <atmosphereDensity>27</atmosphereDensity>
+                <skyColor>0.8,0.8593595,0.19259381</skyColor>
+                <gravitationalMultiplier>82</gravitationalMultiplier>
+                <orbitalDistance>193</orbitalDistance>
+                <orbitalTheta>14</orbitalTheta>
+                <orbitalPhi>29</orbitalPhi>
+                <avgTemperature>436</avgTemperature>
+                <rotationalPeriod>43528</rotationalPeriod>
+                <atmosphereDensity>14</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+        </planet>
+        <planet DIMID="208" name="Sol-208">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>238</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>442</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>179</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="209" name="Sol-208: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.66513115,0.0</skyColor>
+                <gravitationalMultiplier>57</gravitationalMultiplier>
+                <orbitalDistance>132</orbitalDistance>
+                <orbitalTheta>236</orbitalTheta>
+                <orbitalPhi>-569</orbitalPhi>
+                <avgTemperature>528</avgTemperature>
+                <rotationalPeriod>129594</rotationalPeriod>
+                <atmosphereDensity>23</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>true</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <oceanBlock>minecraft:lava</oceanBlock>
+            </planet>
+        </planet>
+        <planet DIMID="210" name="Sol-210">
+            <isKnown>false</isKnown>
+            <GasGiant>true</GasGiant>
+            <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>104</gravitationalMultiplier>
+            <orbitalDistance>185</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>501</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>171</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="211" name="Sol-210: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.6529828,0.0</skyColor>
+                <gravitationalMultiplier>36</gravitationalMultiplier>
+                <orbitalDistance>109</orbitalDistance>
+                <orbitalTheta>346</orbitalTheta>
+                <orbitalPhi>-230</orbitalPhi>
+                <avgTemperature>581</avgTemperature>
+                <rotationalPeriod>514403</rotationalPeriod>
+                <atmosphereDensity>29</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>true</generateVolcanos>
                 <generateStructures>false</generateStructures>
@@ -1135,26 +1369,104 @@
                 <biomeIds>advancedrocketry:hotdryrock,advancedrocketry:volcanic,advancedrocketry:volcanicbarren</biomeIds>
                 <oceanBlock>minecraft:lava</oceanBlock>
             </planet>
-        </planet>
-        <planet DIMID="204" name="Sol-204">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>hydrogen</gas>
-            <gas>nitrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>91</gravitationalMultiplier>
-            <orbitalDistance>180</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>508</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>193</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
+            <planet DIMID="212" name="Sol-210: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.5335885,0.0</skyColor>
+                <gravitationalMultiplier>68</gravitationalMultiplier>
+                <orbitalDistance>119</orbitalDistance>
+                <orbitalTheta>66</orbitalTheta>
+                <orbitalPhi>-474</orbitalPhi>
+                <avgTemperature>556</avgTemperature>
+                <rotationalPeriod>76328</rotationalPeriod>
+                <atmosphereDensity>31</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>true</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
+                <biomeIds>advancedrocketry:hotdryrock,advancedrocketry:volcanic,advancedrocketry:volcanicbarren</biomeIds>
+                <oceanBlock>minecraft:lava</oceanBlock>
+            </planet>
+            <planet DIMID="213" name="Sol-210: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.5615212,0.0</skyColor>
+                <gravitationalMultiplier>62</gravitationalMultiplier>
+                <orbitalDistance>107</orbitalDistance>
+                <orbitalTheta>353</orbitalTheta>
+                <orbitalPhi>121</orbitalPhi>
+                <avgTemperature>586</avgTemperature>
+                <rotationalPeriod>100701</rotationalPeriod>
+                <atmosphereDensity>23</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>true</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <oceanBlock>minecraft:lava</oceanBlock>
+            </planet>
+            <planet DIMID="214" name="Sol-210: 3">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.8119304,0.0</skyColor>
+                <gravitationalMultiplier>63</gravitationalMultiplier>
+                <orbitalDistance>140</orbitalDistance>
+                <orbitalTheta>359</orbitalTheta>
+                <orbitalPhi>8</orbitalPhi>
+                <avgTemperature>512</avgTemperature>
+                <rotationalPeriod>95981</rotationalPeriod>
+                <atmosphereDensity>18</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>true</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <oceanBlock>minecraft:lava</oceanBlock>
+            </planet>
+            <planet DIMID="215" name="Sol-210: 4">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.63388944,0.16950834</skyColor>
+                <gravitationalMultiplier>37</gravitationalMultiplier>
+                <orbitalDistance>189</orbitalDistance>
+                <orbitalTheta>216</orbitalTheta>
+                <orbitalPhi>166</orbitalPhi>
+                <avgTemperature>441</avgTemperature>
+                <rotationalPeriod>473812</rotationalPeriod>
+                <atmosphereDensity>19</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+            </planet>
+            <planet DIMID="216" name="Sol-210: 5">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.72499764,0.0</skyColor>
+                <gravitationalMultiplier>42</gravitationalMultiplier>
+                <orbitalDistance>144</orbitalDistance>
+                <orbitalTheta>105</orbitalTheta>
+                <orbitalPhi>-184</orbitalPhi>
+                <avgTemperature>505</avgTemperature>
+                <rotationalPeriod>323939</rotationalPeriod>
+                <atmosphereDensity>20</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>true</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <oceanBlock>minecraft:lava</oceanBlock>
+            </planet>
         </planet>
         <planet DIMID="147" name="Aurellia">
             <isKnown>true</isKnown>
@@ -1174,235 +1486,25 @@
             <biomeIds>advancedrocketry:hotdryrock,advancedrocketry:crystalchasms,minecraft:ocean</biomeIds>
             <oceanBlock>tconstruct:molten_obsidian</oceanBlock>
         </planet>
-        <planet DIMID="183" name="Sol-183">
+        <planet DIMID="217" name="Sol-217">
             <isKnown>false</isKnown>
             <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>nitrogen</gas>
             <gas>hydrogen</gas>
+            <gas>nitrogen</gas>
+            <gas>oxygen</gas>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>103</gravitationalMultiplier>
-            <orbitalDistance>203</orbitalDistance>
+            <gravitationalMultiplier>94</gravitationalMultiplier>
+            <orbitalDistance>211</orbitalDistance>
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>479</avgTemperature>
+            <avgTemperature>469</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>180</atmosphereDensity>
+            <atmosphereDensity>113</atmosphereDensity>
             <generateCraters>false</generateCraters>
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>false</generateStructures>
             <generateGeodes>false</generateGeodes>
-            <planet DIMID="184" name="Sol-182: 1">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.596609,0.95245004</skyColor>
-                <gravitationalMultiplier>81</gravitationalMultiplier>
-                <orbitalDistance>176</orbitalDistance>
-                <orbitalTheta>145</orbitalTheta>
-                <orbitalPhi>-67</orbitalPhi>
-                <avgTemperature>202</avgTemperature>
-                <rotationalPeriod>45160</rotationalPeriod>
-                <atmosphereDensity>25</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>76</seaLevel>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-                <oceanBlock>advancedrocketry:oxygenfluid</oceanBlock>
-            </planet>
-            <planet DIMID="185" name="Sol-182: 2">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5922322,0.8174315</skyColor>
-                <gravitationalMultiplier>54</gravitationalMultiplier>
-                <orbitalDistance>127</orbitalDistance>
-                <orbitalTheta>171</orbitalTheta>
-                <orbitalPhi>-172</orbitalPhi>
-                <avgTemperature>238</avgTemperature>
-                <rotationalPeriod>152415</rotationalPeriod>
-                <atmosphereDensity>25</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="186" name="Sol-182: 3">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.55851567,1.0</skyColor>
-                <gravitationalMultiplier>49</gravitationalMultiplier>
-                <orbitalDistance>192</orbitalDistance>
-                <orbitalTheta>233</orbitalTheta>
-                <orbitalPhi>-178</orbitalPhi>
-                <avgTemperature>193</avgTemperature>
-                <rotationalPeriod>203996</rotationalPeriod>
-                <atmosphereDensity>18</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-        </planet>
-        <planet DIMID="187" name="Sol-187">
-            <isKnown>false</isKnown>
-            <GasGiant>true</GasGiant>
-            <gas>oxygen</gas>
-            <gas>nitrogen</gas>
-            <gas>hydrogen</gas>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>1.0,1.0,1.0</skyColor>
-            <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>239</orbitalDistance>
-            <orbitalTheta>0</orbitalTheta>
-            <orbitalPhi>0</orbitalPhi>
-            <avgTemperature>441</avgTemperature>
-            <rotationalPeriod>24000</rotationalPeriod>
-            <atmosphereDensity>112</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <planet DIMID="192" name="Sol-191: 0">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.9163382,0.19217068</skyColor>
-                <gravitationalMultiplier>81</gravitationalMultiplier>
-                <orbitalDistance>193</orbitalDistance>
-                <orbitalTheta>92</orbitalTheta>
-                <orbitalPhi>-187</orbitalPhi>
-                <avgTemperature>436</avgTemperature>
-                <rotationalPeriod>45160</rotationalPeriod>
-                <atmosphereDensity>26</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>56</seaLevel>
-                <biomeIds>traverse:red_desert,advancedrocketry:stormland,traverse:mini_jungle,traverse:desert_shrubland,minecraft:mutated_savanna_rock</biomeIds>
-            </planet>
-            <planet DIMID="188" name="Sol-182: 5">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.5568695,1.0</skyColor>
-                <gravitationalMultiplier>49</gravitationalMultiplier>
-                <orbitalDistance>196</orbitalDistance>
-                <orbitalTheta>201</orbitalTheta>
-                <orbitalPhi>349</orbitalPhi>
-                <avgTemperature>191</avgTemperature>
-                <rotationalPeriod>203996</rotationalPeriod>
-                <atmosphereDensity>19</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
-            </planet>
-            <planet DIMID="189" name="Sol-182: 6">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.60185003,0.93960375</skyColor>
-                <gravitationalMultiplier>42</gravitationalMultiplier>
-                <orbitalDistance>155</orbitalDistance>
-                <orbitalTheta>184</orbitalTheta>
-                <orbitalPhi>38</orbitalPhi>
-                <avgTemperature>215</avgTemperature>
-                <rotationalPeriod>323939</rotationalPeriod>
-                <atmosphereDensity>32</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>randomthings:spectral,minecraft:mutated_extreme_hills_with_trees,traverse:canyon,advancedrocketry:oceanspires,traverse:autumnal_wooded_hills</biomeIds>
-            </planet>
-            <planet DIMID="190" name="Sol-190">
-                <isKnown>false</isKnown>
-                <GasGiant>true</GasGiant>
-                <gas>oxygen</gas>
-                <gas>hydrogen</gas>
-                <gas>nitrogen</gas>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>1.0,1.0,1.0</skyColor>
-                <gravitationalMultiplier>123</gravitationalMultiplier>
-                <orbitalDistance>210</orbitalDistance>
-                <orbitalTheta>0</orbitalTheta>
-                <orbitalPhi>0</orbitalPhi>
-                <avgTemperature>471</avgTemperature>
-                <rotationalPeriod>24000</rotationalPeriod>
-                <atmosphereDensity>118</atmosphereDensity>
-                <generateCraters>false</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-            </planet>
-            <planet DIMID="191" name="Sol-191">
-                <isKnown>false</isKnown>
-                <GasGiant>true</GasGiant>
-                <gas>oxygen</gas>
-                <gas>hydrogen</gas>
-                <gas>nitrogen</gas>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>1.0,1.0,1.0</skyColor>
-                <gravitationalMultiplier>130</gravitationalMultiplier>
-                <orbitalDistance>225</orbitalDistance>
-                <orbitalTheta>0</orbitalTheta>
-                <orbitalPhi>0</orbitalPhi>
-                <avgTemperature>455</avgTemperature>
-                <rotationalPeriod>24000</rotationalPeriod>
-                <atmosphereDensity>139</atmosphereDensity>
-                <generateCraters>false</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <planet DIMID="192" name="Sol-191: 0">
-                    <isKnown>false</isKnown>
-                    <fogColor>1.0,1.0,1.0</fogColor>
-                    <skyColor>0.8,0.9163382,0.19217068</skyColor>
-                    <gravitationalMultiplier>81</gravitationalMultiplier>
-                    <orbitalDistance>193</orbitalDistance>
-                    <orbitalTheta>92</orbitalTheta>
-                    <orbitalPhi>-187</orbitalPhi>
-                    <avgTemperature>436</avgTemperature>
-                    <rotationalPeriod>45160</rotationalPeriod>
-                    <atmosphereDensity>26</atmosphereDensity>
-                    <generateCraters>true</generateCraters>
-                    <generateVolcanos>false</generateVolcanos>
-                    <generateStructures>false</generateStructures>
-                    <generateGeodes>false</generateGeodes>
-                    <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                    <seaLevel>56</seaLevel>
-                    <biomeIds>traverse:red_desert,advancedrocketry:stormland,traverse:mini_jungle,traverse:desert_shrubland,minecraft:mutated_savanna_rock</biomeIds>
-                </planet>
-                <planet DIMID="193" name="Sol-191: 1">
-                    <isKnown>false</isKnown>
-                    <fogColor>1.0,1.0,1.0</fogColor>
-                    <skyColor>0.8,0.8919683,0.0</skyColor>
-                    <gravitationalMultiplier>52</gravitationalMultiplier>
-                    <orbitalDistance>127</orbitalDistance>
-                    <orbitalTheta>213</orbitalTheta>
-                    <orbitalPhi>-367</orbitalPhi>
-                    <avgTemperature>538</avgTemperature>
-                    <rotationalPeriod>161206</rotationalPeriod>
-                    <atmosphereDensity>34</atmosphereDensity>
-                    <generateCraters>true</generateCraters>
-                    <generateVolcanos>true</generateVolcanos>
-                    <generateStructures>false</generateStructures>
-                    <generateGeodes>false</generateGeodes>
-                    <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                    <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
-                    <biomeIds>advancedrocketry:hotdryrock,advancedrocketry:volcanic,advancedrocketry:volcanicbarren</biomeIds>
-                    <oceanBlock>minecraft:lava</oceanBlock>
-                </planet>
-            </planet>
         </planet>
         <planet DIMID="190" name="Sol-190">
             <isKnown>false</isKnown>
@@ -1446,41 +1548,38 @@
             <planet DIMID="192" name="Sol-191: 0">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.9163382,0.19217068</skyColor>
-                <gravitationalMultiplier>81</gravitationalMultiplier>
-                <orbitalDistance>193</orbitalDistance>
-                <orbitalTheta>92</orbitalTheta>
-                <orbitalPhi>-187</orbitalPhi>
-                <avgTemperature>436</avgTemperature>
-                <rotationalPeriod>45160</rotationalPeriod>
+                <skyColor>0.8,0.6835282,1.0</skyColor>
+                <gravitationalMultiplier>43</gravitationalMultiplier>
+                <orbitalDistance>192</orbitalDistance>
+                <orbitalTheta>143</orbitalTheta>
+                <orbitalPhi>-358</orbitalPhi>
+                <avgTemperature>193</avgTemperature>
+                <rotationalPeriod>301860</rotationalPeriod>
                 <atmosphereDensity>26</atmosphereDensity>
                 <generateCraters>true</generateCraters>
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <seaLevel>56</seaLevel>
-                <biomeIds>traverse:red_desert,advancedrocketry:stormland,traverse:mini_jungle,traverse:desert_shrubland,minecraft:mutated_savanna_rock</biomeIds>
+                <biomeIds>traverse:mountainous_desert,traverse:thicket,thaumcraft:eerie,traverse:rocky_plains,traverse:autumnal_wooded_hills</biomeIds>
             </planet>
             <planet DIMID="193" name="Sol-191: 1">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.8919683,0.0</skyColor>
-                <gravitationalMultiplier>52</gravitationalMultiplier>
-                <orbitalDistance>127</orbitalDistance>
-                <orbitalTheta>213</orbitalTheta>
-                <orbitalPhi>-367</orbitalPhi>
-                <avgTemperature>538</avgTemperature>
-                <rotationalPeriod>161206</rotationalPeriod>
-                <atmosphereDensity>34</atmosphereDensity>
+                <skyColor>0.8,0.5068046,1.0</skyColor>
+                <gravitationalMultiplier>28</gravitationalMultiplier>
+                <orbitalDistance>185</orbitalDistance>
+                <orbitalTheta>184</orbitalTheta>
+                <orbitalPhi>-353</orbitalPhi>
+                <avgTemperature>197</avgTemperature>
+                <rotationalPeriod>1093294</rotationalPeriod>
+                <atmosphereDensity>31</atmosphereDensity>
                 <generateCraters>true</generateCraters>
-                <generateVolcanos>true</generateVolcanos>
+                <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <volcanoFrequencyMultiplier>1.0</volcanoFrequencyMultiplier>
-                <biomeIds>advancedrocketry:hotdryrock,advancedrocketry:volcanic,advancedrocketry:volcanicbarren</biomeIds>
-                <oceanBlock>minecraft:lava</oceanBlock>
+                <biomeIds>minecraft:jungle,minecraft:ocean,traverse:autumnal_woods,minecraft:mutated_savanna,traverse:birch_forested_hills</biomeIds>
             </planet>
         </planet>
     </star>

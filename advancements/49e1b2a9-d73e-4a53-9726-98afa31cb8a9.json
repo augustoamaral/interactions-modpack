@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-12-18 00:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-11-09 22:14:39 +0000"
@@ -1507,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-12-18 00:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-11-16 23:52:59 +0000"
@@ -1929,6 +1941,12 @@
   "rftools:alltheitems": {
     "criteria": {
       "placed_storage": "2022-02-21 20:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-12-18 00:12:46 +0000"
     },
     "done": true
   },
