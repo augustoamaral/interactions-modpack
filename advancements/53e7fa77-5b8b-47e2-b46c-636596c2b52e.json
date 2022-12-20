@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2022-12-20 00:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-12-19 23:42:48 +0000"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2022-12-20 00:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2022-12-19 23:40:31 +0000"
@@ -122,6 +134,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2022-12-19 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2022-12-20 00:11:26 +0000"
     },
     "done": true
   },
@@ -167,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2022-12-20 00:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-12-19 23:42:48 +0000"
@@ -181,9 +205,11 @@
   },
   "enderioconduits:root": {
     "criteria": {
-      "inv_changed-enderio:gravel": "2022-12-19 23:40:55 +0000"
+      "inv_changed-enderio:gravel": "2022-12-19 23:40:55 +0000",
+      "inv_changed-enderio:clay": "2022-12-20 00:24:55 +0000",
+      "inv_changed-enderio:sand": "2022-12-20 00:34:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
@@ -200,6 +226,30 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2022-12-19 23:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2022-12-20 00:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-12-20 00:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2022-12-20 00:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2022-12-20 00:11:26 +0000"
     },
     "done": true
   }
