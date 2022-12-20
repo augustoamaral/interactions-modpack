@@ -339,6 +339,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2022-12-20 02:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
