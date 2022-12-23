@@ -929,6 +929,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_bus": {
+    "criteria": {
+      "part": "2022-12-23 12:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2021-11-23 01:32:42 +0000"
