@@ -613,7 +613,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "silverfish": "2022-04-09 17:55:52 +0000",
-      "ghast": "2022-04-15 13:02:26 +0000"
+      "cave_spider": "2022-12-23 15:31:13 +0000",
+      "ghast": "2022-04-15 13:02:26 +0000",
+      "spider": "2022-12-23 15:31:06 +0000"
     },
     "done": false
   },
@@ -845,6 +847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2022-12-23 15:11:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2022-04-10 21:35:47 +0000"
@@ -974,6 +982,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-04-08 19:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-12-23 15:13:06 +0000"
     },
     "done": true
   },
