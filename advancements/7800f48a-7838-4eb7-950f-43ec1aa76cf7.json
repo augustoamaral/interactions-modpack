@@ -943,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2022-12-23 16:55:36 +0000"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/storage_bus": {
     "criteria": {
       "part": "2022-12-23 12:19:01 +0000"
@@ -1039,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2022-12-23 16:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2022-04-10 21:48:11 +0000"
@@ -1095,6 +1107,12 @@
   "enderioconduits:fluid/1_fluid_conduit": {
     "criteria": {
       "inv_changed-enderio:liquid_conduit": "2022-04-09 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "botania:main/spark_craft": {
+    "criteria": {
+      "spark": "2022-12-23 16:21:01 +0000"
     },
     "done": true
   },
@@ -1218,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2022-12-23 16:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2021-11-24 00:45:07 +0000"
@@ -1248,6 +1272,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2022-12-23 16:55:36 +0000"
     },
     "done": true
   },
