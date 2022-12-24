@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-12-23 23:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
@@ -999,6 +1005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-12-23 23:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-11-23 01:33:31 +0000"
@@ -1070,6 +1082,8 @@
       "frozen_river": "2021-11-23 23:03:35 +0000",
       "ice_flats": "2021-11-24 13:43:10 +0000",
       "taiga_cold_hills": "2021-11-24 13:40:58 +0000",
+      "forest": "2022-12-23 23:34:46 +0000",
+      "birch_forest": "2022-12-23 23:35:12 +0000",
       "deep_ocean": "2021-11-23 23:04:13 +0000",
       "beaches": "2021-11-23 23:05:01 +0000",
       "extreme_hills_with_trees": "2022-12-23 22:34:26 +0000",
@@ -1278,9 +1292,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-12-23 23:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2022-12-23 16:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2022-12-24 00:02:32 +0000"
     },
     "done": true
   },
