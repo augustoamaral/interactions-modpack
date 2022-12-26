@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-12-26 03:51:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2021-11-28 21:44:21 +0000"
