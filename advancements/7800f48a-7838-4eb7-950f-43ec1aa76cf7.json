@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-12-31 21:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-24 13:26:17 +0000"
@@ -402,6 +408,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2022-04-09 22:16:19 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_medium": {
+    "criteria": {
+      "gain_perk_level_medium": "2022-12-31 20:59:19 +0000"
     },
     "done": true
   },
@@ -636,10 +648,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "slime": "2022-12-31 20:47:42 +0000",
       "skeleton": "2022-12-31 20:13:13 +0000",
       "silverfish": "2022-04-09 17:55:52 +0000",
       "cave_spider": "2022-12-23 15:31:13 +0000",
       "zombie": "2022-12-23 22:30:53 +0000",
+      "witch": "2022-12-31 20:49:40 +0000",
       "ghast": "2022-04-15 13:02:26 +0000",
       "spider": "2022-12-23 15:31:06 +0000",
       "enderman": "2022-12-23 22:30:55 +0000"
@@ -901,6 +915,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2022-04-10 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2022-12-31 20:50:51 +0000"
     },
     "done": true
   },
