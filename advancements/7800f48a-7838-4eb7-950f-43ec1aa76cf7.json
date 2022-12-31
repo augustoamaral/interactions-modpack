@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-12-31 19:52:18 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2021-11-23 00:03:43 +0000"
@@ -630,6 +636,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2022-12-31 20:13:13 +0000",
       "silverfish": "2022-04-09 17:55:52 +0000",
       "cave_spider": "2022-12-23 15:31:13 +0000",
       "zombie": "2022-12-23 22:30:53 +0000",
@@ -921,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-12-31 19:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
@@ -1131,13 +1144,19 @@
       "beaches": "2021-11-23 23:05:01 +0000",
       "extreme_hills_with_trees": "2022-12-23 22:34:26 +0000",
       "plains": "2021-11-23 00:03:43 +0000",
+      "savanna": "2022-12-31 19:53:50 +0000",
+      "jungle_hills": "2022-12-31 20:07:07 +0000",
+      "jungle_edge": "2022-12-31 20:06:55 +0000",
       "ice_mountains": "2021-11-23 01:35:44 +0000",
       "redwood_taiga": "2021-11-28 21:57:43 +0000",
+      "taiga": "2022-12-31 19:53:23 +0000",
       "redwood_taiga_hills": "2022-12-29 03:05:55 +0000",
+      "taiga_hills": "2022-12-31 19:53:26 +0000",
       "taiga_cold": "2021-11-24 13:40:32 +0000",
       "ocean": "2021-11-23 23:03:55 +0000",
       "cold_beach": "2021-11-28 21:57:08 +0000",
-      "river": "2021-11-23 23:04:58 +0000"
+      "river": "2021-11-23 23:04:58 +0000",
+      "jungle": "2022-12-31 20:06:53 +0000"
     },
     "done": false
   },
