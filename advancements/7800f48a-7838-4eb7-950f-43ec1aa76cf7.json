@@ -1110,6 +1110,12 @@
     },
     "done": true
   },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2023-01-01 05:41:31 +0000"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/controller": {
     "criteria": {
       "certus": "2022-12-27 19:04:12 +0000"
