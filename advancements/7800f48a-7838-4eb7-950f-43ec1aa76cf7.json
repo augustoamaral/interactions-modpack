@@ -1288,6 +1288,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2023-01-02 20:53:40 +0000"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2022-12-19 22:47:54 +0000"
