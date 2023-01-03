@@ -1489,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2023-01-03 17:50:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2021-11-24 13:26:17 +0000"
