@@ -913,6 +913,12 @@
     },
     "done": true
   },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2023-01-05 15:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
@@ -1358,6 +1364,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-04-10 23:00:03 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/fluix": {
+    "criteria": {
+      "certus": "2023-01-05 15:22:47 +0000"
     },
     "done": true
   },
