@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "botania:main/elf_portal_open": {
+    "criteria": {
+      "portal": "2023-01-06 15:25:47 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:item/1_item_conduit": {
     "criteria": {
       "inv_changed-enderio:item_conduit": "2022-04-08 11:52:19 +0000"
