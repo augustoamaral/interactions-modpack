@@ -1039,6 +1039,12 @@
     },
     "done": true
   },
+  "bhc:main/orange_heart": {
+    "criteria": {
+      "orange_heart_in_inventory": "2023-01-07 17:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-11-16 21:46:05 +0000"
@@ -1853,6 +1859,12 @@
     },
     "done": true
   },
+  "bhc:main/orange_heart_canister": {
+    "criteria": {
+      "orange_heart_canister_in_inventory": "2023-01-07 17:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2021-11-10 01:16:02 +0000"
@@ -2032,6 +2044,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2022-04-06 22:33:29 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/relic_apple": {
+    "criteria": {
+      "relic_apple_eaten": "2023-01-07 17:30:59 +0000"
     },
     "done": true
   },
