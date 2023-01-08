@@ -739,6 +739,12 @@
     },
     "done": true
   },
+  "botania:challenge/rank_ss_pick": {
+    "criteria": {
+      "code_triggered": "2023-01-08 20:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
