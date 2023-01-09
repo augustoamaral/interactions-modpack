@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2023-01-09 18:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2021-11-23 23:20:32 +0000"
