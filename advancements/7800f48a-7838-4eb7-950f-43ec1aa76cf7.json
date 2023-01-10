@@ -709,6 +709,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2023-01-04 00:51:44 +0000",
+      "zombie_villager": "2023-01-10 02:23:53 +0000",
       "slime": "2022-12-31 20:47:42 +0000",
       "skeleton": "2022-12-31 20:13:13 +0000",
       "silverfish": "2022-04-09 17:55:52 +0000",
@@ -862,6 +863,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-11-23 23:21:09 +0000"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_weapon_craft": {
+    "criteria": {
+      "terrablade": "2023-01-10 02:20:45 +0000"
     },
     "done": true
   },
