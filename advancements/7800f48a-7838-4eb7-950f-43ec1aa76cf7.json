@@ -313,6 +313,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2023-01-11 20:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
