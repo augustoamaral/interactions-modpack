@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-01-11 19:25:54 +0000"
+    },
+    "done": true
+  },
   "botania:main/elf_portal_open": {
     "criteria": {
       "portal": "2023-01-06 15:25:47 +0000"
@@ -700,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-01-11 19:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
@@ -719,6 +731,7 @@
       "witch": "2022-12-31 20:49:40 +0000",
       "ghast": "2022-04-15 13:02:26 +0000",
       "spider": "2022-12-23 15:31:06 +0000",
+      "creeper": "2023-01-11 19:13:09 +0000",
       "enderman": "2022-12-23 22:30:55 +0000"
     },
     "done": false
@@ -1074,6 +1087,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2023-01-11 19:25:54 +0000"
     },
     "done": true
   },
