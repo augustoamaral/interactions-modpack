@@ -1095,6 +1095,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/givingitallshesgot": {
+    "criteria": {
+      "givingitallshesgot": "2023-01-12 17:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2022-01-19 23:20:05 +0000"
@@ -1614,6 +1620,12 @@
   "enderio:gears/g2_stone_gear": {
     "criteria": {
       "inv_changed-enderio:item_material": "2021-11-16 23:52:59 +0000"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/flightofpheonix": {
+    "criteria": {
+      "flightofpheonix": "2023-01-12 17:57:05 +0000"
     },
     "done": true
   },
