@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "red": "2023-01-13 13:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2021-11-28 21:44:21 +0000"
@@ -322,6 +328,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2023-01-13 13:37:45 +0000"
     },
     "done": true
   },
@@ -1000,6 +1012,12 @@
     },
     "done": true
   },
+  "botania:main/kekimurus_pickup": {
+    "criteria": {
+      "kekimurus": "2023-01-13 14:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2021-11-24 00:44:08 +0000"
@@ -1352,6 +1370,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2023-01-13 14:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-11-23 23:32:35 +0000"
@@ -1463,6 +1487,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-01-13 14:39:13 +0000"
     },
     "done": true
   },
