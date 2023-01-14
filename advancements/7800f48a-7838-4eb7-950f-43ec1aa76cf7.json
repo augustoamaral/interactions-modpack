@@ -489,6 +489,12 @@
     },
     "done": true
   },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2023-01-14 03:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2022-02-21 19:18:10 +0000",
@@ -676,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-01-14 03:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2021-11-23 23:12:34 +0000"
@@ -691,6 +703,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-11-24 13:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-01-14 03:39:37 +0000"
     },
     "done": true
   },
@@ -926,6 +944,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-11-24 13:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-01-14 03:34:08 +0000"
     },
     "done": true
   },
@@ -1455,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-01-14 03:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-02-21 19:20:17 +0000"
@@ -1512,6 +1542,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-04-15 22:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-01-14 03:34:08 +0000"
     },
     "done": true
   },
