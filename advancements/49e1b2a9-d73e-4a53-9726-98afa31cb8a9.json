@@ -398,6 +398,12 @@
     },
     "done": false
   },
+  "rftools:builder": {
+    "criteria": {
+      "placed_builder": "2023-01-16 13:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-11-09 22:09:31 +0000"
