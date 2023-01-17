@@ -1515,6 +1515,12 @@
     },
     "done": true
   },
+  "projecte:klein_star_ein": {
+    "criteria": {
+      "klein_star": "2023-01-17 12:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-08 20:11:04 +0000"
