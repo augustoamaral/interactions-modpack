@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-01-18 21:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-11-23 23:21:09 +0000"
@@ -1254,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-01-18 21:56:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2022-04-08 19:16:43 +0000"
@@ -1366,9 +1378,11 @@
       "taiga_hills": "2022-12-31 19:53:26 +0000",
       "taiga_cold": "2021-11-24 13:40:32 +0000",
       "ocean": "2021-11-23 23:03:55 +0000",
+      "roofed_forest": "2023-01-18 19:46:35 +0000",
       "cold_beach": "2021-11-28 21:57:08 +0000",
       "river": "2021-11-23 23:04:58 +0000",
-      "jungle": "2022-12-31 20:06:53 +0000"
+      "jungle": "2022-12-31 20:06:53 +0000",
+      "desert": "2023-01-18 20:48:26 +0000"
     },
     "done": false
   },
@@ -1387,6 +1401,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2022-04-10 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2023-01-18 20:59:09 +0000"
     },
     "done": true
   },
@@ -1477,6 +1497,12 @@
   "botania:main/bauble_wear": {
     "criteria": {
       "code_triggered": "2023-01-02 20:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-01-18 21:23:48 +0000"
     },
     "done": true
   },
