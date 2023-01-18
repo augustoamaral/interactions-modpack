@@ -834,6 +834,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "fire": "2023-01-18 00:38:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2022-12-30 03:05:59 +0000"
