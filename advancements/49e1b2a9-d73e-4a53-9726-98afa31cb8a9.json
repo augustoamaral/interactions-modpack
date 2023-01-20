@@ -508,6 +508,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_large": {
+    "criteria": {
+      "gain_perk_level_large": "2023-01-20 01:53:05 +0000"
+    },
+    "done": true
+  },
   "projecte:philosophers_stone": {
     "criteria": {
       "philosophers_stone": "2021-11-16 23:05:36 +0000"
