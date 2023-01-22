@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2023-01-22 17:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2021-11-20 01:30:30 +0000"
@@ -1027,6 +1033,12 @@
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2021-11-09 22:14:53 +0000"
+    },
+    "done": true
+  },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2023-01-22 16:27:39 +0000"
     },
     "done": true
   },
