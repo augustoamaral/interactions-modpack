@@ -1338,6 +1338,12 @@
     },
     "done": true
   },
+  "bhc:main/blue_heart_canister": {
+    "criteria": {
+      "blue_heart_canister_in_inventory": "2023-01-23 02:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2021-11-23 01:32:42 +0000"
