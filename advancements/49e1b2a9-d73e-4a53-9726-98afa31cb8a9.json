@@ -506,6 +506,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/3_advanced_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_advanced_item_filter": "2023-05-09 11:43:00 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2021-11-09 22:12:30 +0000",
@@ -2063,6 +2069,7 @@
   "enderioconduits:goals/all_filters": {
     "criteria": {
       "inv_changed-enderio:item_big_item_filter2": "2022-02-10 22:24:39 +0000",
+      "inv_changed-enderio:item_advanced_item_filter2": "2023-05-09 11:43:00 +0000",
       "inv_changed-enderio:item_limited_item_filter2": "2022-12-29 20:39:48 +0000",
       "inv_changed-enderio:item_basic_item_filter2": "2022-03-27 18:22:16 +0000"
     },
