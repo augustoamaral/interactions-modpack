@@ -996,6 +996,7 @@
       "zombie_villager": "2021-11-23 23:40:30 +0000",
       "magma_cube": "2022-02-26 14:50:22 +0000",
       "slime": "2022-03-06 11:40:01 +0000",
+      "polar_bear": "2023-05-15 13:53:35 +0000",
       "skeleton": "2022-02-03 21:08:13 +0000",
       "husk": "2021-11-19 23:03:33 +0000",
       "blaze": "2022-02-11 19:06:18 +0000",
@@ -1696,6 +1697,12 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2023-05-21 03:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "husk": "2021-11-19 23:03:33 +0000"
@@ -1811,6 +1818,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2021-11-16 22:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2023-05-19 10:18:45 +0000"
     },
     "done": true
   },
